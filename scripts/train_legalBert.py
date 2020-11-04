@@ -83,7 +83,7 @@ optimizer = AdamW(optimizer_grouped_parameters,lr=2e-5,correct_bias=True)
 train_loss_set = []
 
 # Number of training epochs (authors recommend between 2 and 4)
-epochs = 1
+epochs = 3
 
 # trange is a tqdm wrapper around the normal python range
 for epoch__ in trange(epochs, desc="Epoch"):
