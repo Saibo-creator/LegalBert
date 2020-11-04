@@ -1,0 +1,5707 @@
+root
+├── 04 POLITICS
+├── 08 INTERNATIONAL RELATIONS
+├── 10 EUROPEAN UNION
+├── 12 LAW
+├── 16 ECONOMICS
+├── 20 TRADE
+├── 24 FINANCE
+├── 28 SOCIAL QUESTIONS
+├── 32 EDUCATION AND COMMUNICATIONS
+├── 36 SCIENCE
+├── 40 BUSINESS AND COMPETITION
+├── 44 EMPLOYMENT AND WORKING CONDITIONS
+├── 48 TRANSPORT
+├── 52 ENVIRONMENT
+├── 56 AGRICULTURE, FORESTRY AND FISHERIES
+├── 60 AGRI-FOODSTUFFS
+├── 64 PRODUCTION, TECHNOLOGY AND RESEARCH
+├── 66 ENERGY
+├── 68 INDUSTRY
+├── 72 GEOGRAPHY
+├── 76 INTERNATIONAL ORGANISATIONS
+├── AAMS countries
+├── ACP countries
+│   ├── Botswana
+│   ├── Burundi
+│   ├── Cape Verde
+│   ├── Cook Islands
+│   ├── Eritrea
+│   ├── Ethiopia
+│   ├── Federated States of Micronesia
+│   ├── Gambia
+│   ├── Ghana
+│   ├── Guinea
+│   ├── Kenya
+│   ├── Kiribati
+│   ├── Lesotho
+│   ├── Marshall Islands
+│   ├── Mozambique
+│   ├── Nauru
+│   ├── Niue
+│   ├── Palau
+│   ├── Rwanda
+│   ├── Samoa
+│   ├── Sierra Leone
+│   ├── Swaziland
+│   ├── Tonga
+│   ├── Tuvalu
+│   └── Uganda
+├── ALADI countries
+│   ├── Argentina
+│   ├── Bolivia
+│   ├── Brazil
+│   ├── Chile
+│   ├── Colombia
+│   ├── Cuba
+│   ├── Ecuador
+│   │   └── Galapagos Islands
+│   ├── Mexico
+│   ├── Paraguay
+│   ├── Peru
+│   ├── Uruguay
+│   └── Venezuela
+├── APEC countries
+│   ├── Hong Kong
+│   ├── Japan
+│   ├── South Korea
+│   └── Taiwan
+├── ASEAN countries
+│   ├── Brunei
+│   ├── Burma/Myanmar
+│   ├── Cambodia
+│   ├── Indonesia
+│   │   └── Timor
+│   ├── Laos
+│   ├── Malaysia
+│   ├── Philippines
+│   ├── Singapore
+│   ├── Thailand
+│   └── Vietnam
+├── Africa
+│   ├── English-speaking Africa
+│   ├── French-speaking Africa
+│   └── Portuguese-speaking Africa
+├── African organisation
+│   ├── African Development Bank
+│   ├── African Union
+│   ├── African and Mauritian Common Organisation
+│   ├── Arab Maghreb Union
+│   ├── CCAM countries
+│   ├── Central African Economic and Monetary Community
+│   ├── Common Market for Eastern and Southern Africa
+│   ├── Community of Sahel-Saharan States
+│   ├── East African Community
+│   ├── Economic Community of Central African States
+│   ├── Economic Community of West African States
+│   ├── Southern African Customs Union
+│   ├── Southern African Development Community
+│   └── West African Economic and Monetary Union
+├── America
+├── American organisation
+│   ├── Association of Caribbean States
+│   ├── Caribbean Development Bank
+│   ├── Caricom
+│   ├── Cariforum
+│   ├── Free Trade Area of the Americas
+│   ├── NAFTA
+│   └── Organisation of American States
+├── Andean Community countries
+├── Anzus countries
+│   ├── Australia
+│   └── New Zealand
+├── Arab Common Market countries
+├── Arab League countries
+│   ├── Algeria
+│   ├── Bahrain
+│   ├── Comoros
+│   ├── Djibouti
+│   ├── Egypt
+│   ├── Iraq
+│   ├── Jordan
+│   ├── Kuwait
+│   ├── Lebanon
+│   ├── Libya
+│   ├── Mauritania
+│   ├── Morocco
+│   ├── Oman
+│   ├── Qatar
+│   ├── Saudi Arabia
+│   ├── Somalia
+│   ├── Sudan
+│   ├── Syria
+│   ├── Tunisia
+│   └── Yemen
+├── Arab organisation
+│   ├── Arab League
+│   ├── Council of Arab Economic Unity
+│   ├── Gulf Cooperation Council
+│   ├── Organisation of Arab Petroleum Exporting Countries
+│   └── Palestine Liberation Organisation
+├── Arab world
+├── Asia
+├── Asian organisation
+│   ├── ASEAN
+│   ├── Asian Development Bank
+│   ├── Asian Productivity Organisation
+│   ├── Asian and Pacific Council
+│   ├── Asian and Pacific Development Centre
+│   ├── Asian-Pacific Parliamentarians' Union
+│   ├── Asia–Pacific economic cooperation
+│   ├── Pacific Islands Forum
+│   ├── SEATO
+│   ├── Secretariat of the Pacific Community
+│   └── South Asian Association for Regional Cooperation
+├── BRICS countries
+├── Benelux countries
+├── CACM countries
+│   ├── Costa Rica
+│   ├── El Salvador
+│   ├── Honduras
+│   └── Nicaragua
+├── CAEMC countries
+│   ├── Cameroon
+│   └── Equatorial Guinea
+├── CAEU countries
+├── CAIS countries
+├── CCD
+├── CEAE
+├── CEAO
+├── CEFTA countries
+├── CIS countries
+│   └── Belarus
+├── Caribbean Islands
+│   ├── Greater Antilles
+│   └── Lesser Antilles
+├── Caricom countries
+├── Central Asia
+│   ├── Afghanistan
+│   ├── Kazakhstan
+│   ├── Kyrgyzstan
+│   ├── Tajikistan
+│   ├── Turkmenistan
+│   └── Uzbekistan
+├── Central and Eastern Europe
+│   └── Caucasus countries
+├── Central and Eastern European Countries
+│   ├── Kosovo
+│   └── Serbia and Montenegro
+├── Comecon countries
+│   └── Mongolia
+├── Community Trademark Office
+├── Community body
+├── Community budget
+│   └── ECSC operating budget
+├── Council of Europe countries
+│   ├── Albania
+│   ├── Andorra
+│   ├── Armenia
+│   ├── Austria
+│   ├── Azerbaijan
+│   ├── Belgium
+│   ├── Bosnia and Herzegovina
+│   ├── Bulgaria
+│   ├── Croatia
+│   ├── Cyprus
+│   ├── Czech Republic
+│   ├── Denmark
+│   ├── Estonia
+│   ├── Finland
+│   ├── Former Yugoslav Republic of Macedonia
+│   ├── France
+│   ├── Georgia
+│   ├── Germany
+│   ├── Greece
+│   ├── Hungary
+│   ├── Iceland
+│   ├── Ireland
+│   ├── Italy
+│   ├── Latvia
+│   ├── Liechtenstein
+│   ├── Lithuania
+│   ├── Luxembourg
+│   ├── Malta
+│   ├── Moldova
+│   ├── Monaco
+│   ├── Montenegro
+│   ├── Netherlands
+│   ├── Norway
+│   ├── Poland
+│   ├── Portugal
+│   ├── Romania
+│   ├── Russia
+│   ├── San Marino
+│   ├── Serbia
+│   ├── Slovakia
+│   ├── Slovenia
+│   ├── Spain
+│   ├── Sweden
+│   ├── Switzerland
+│   ├── Turkey
+│   ├── Ukraine
+│   └── United Kingdom
+├── Cyclades
+├── Dodecanese
+├── EAC countries
+├── EFTA countries
+├── ENEA
+├── ESRO
+├── EU Member State
+├── EU act
+│   ├── EC Decision
+│   ├── EC Directive
+│   ├── EC Regulation
+│   ├── EC opinion
+│   ├── EC recommendation
+│   ├── decision (EU)
+│   ├── directive (EU)
+│   │   ├── delegated directive
+│   │   └── implementing directive
+│   ├── legislative act (EU)
+│   ├── non-legislative act (EU)
+│   ├── opinion (EU)
+│   │   ├── CoR opinion
+│   │   ├── ESC opinion
+│   │   ├── opinion of the Council
+│   │   └── opinion of the Court of Auditors
+│   ├── recommendation (EU)
+│   ├── regulation (EU)
+│   │   └── implementing Regulation
+│   └── resolution (EU)
+│       └── resolution of the European Council
+├── EU body
+│   ├── European Committee of the Regions
+│   ├── European Data Protection Supervisor
+│   ├── European Economic and Social Committee
+│   ├── European External Action Service
+│   │   └── High Representative of the Union for Foreign Affairs and Security Policy
+│   ├── European Investment Bank
+│   ├── European Investment Fund
+│   ├── European Monetary Institute
+│   └── European Ombudsman
+├── EU budget
+│   └── general budget (EU)
+├── EU customs procedure
+│   ├── customs procedure suspending duties
+│   │   ├── customs transit
+│   │   ├── outward processing
+│   │   └── temporary admission
+│   ├── export customs procedure
+│   └── free circulation
+├── EU expenditure
+│   ├── administrative expenditure (EU)
+│   ├── compulsory expenditure
+│   ├── non-compulsory expenditure
+│   └── operational expenditure (EU)
+├── EU financing
+│   ├── EU financial instrument
+│   │   ├── EU loan
+│   │   └── European Neighbourhood and Partnership Instrument
+│   ├── EU financing arrangements
+│   │   ├── eligibility criteria
+│   │   └── principle of additionality
+│   └── coordination of financing
+├── EU institution
+│   ├── Council of the European Union
+│   │   └── Coreper
+│   ├── Court of Justice of the European Union
+│   ├── European Central Bank
+│   │   └── member of the European Central Bank
+│   ├── European Commission
+│   ├── European Council
+│   │   └── President of the European Council
+│   ├── European Court of Auditors
+│   │   └── member of the Court of Auditors (EU)
+│   └── European Parliament
+├── EU law
+│   ├── Community acquis
+│   ├── application of EU law
+│   ├── approximation of laws
+│   ├── case law (EU)
+│   │   └── judgment of the Court (EU)
+│   ├── codification of EU law
+│   ├── consolidation of EU law
+│   ├── drafting of EU law
+│   │   ├── codecision procedure
+│   │   ├── comitology
+│   │   ├── conciliation procedure
+│   │   ├── consultation procedure
+│   │   ├── cooperation procedure
+│   │   ├── intergovernmental conference (EU)
+│   │   ├── legal basis
+│   │   ├── legislative programme (EU)
+│   │   ├── ordinary legislative procedure
+│   │   │   └── conciliation procedure (part of codecision procedure)
+│   │   └── special legislative procedure
+│   └── secondary legislation
+├── EU legal system
+│   ├── EU competence
+│   │   ├── principle of communitisation
+│   │   ├── principle of legal certainty
+│   │   ├── principle of proportionality
+│   │   ├── principle of subsidiarity
+│   │   └── transfer of competence
+│   ├── EU control
+│   ├── EU law - national law
+│   │   └── mutual recognition principle
+│   ├── competence of the Member States
+│   ├── external competence (EU)
+│   ├── joint competence
+│   └── open method of coordination
+├── EU office or agency
+│   ├── Agency for the Cooperation of Energy Regulators
+│   ├── Body of European Regulators for Electronic Communications
+│   ├── Cedefop
+│   ├── Community Plant Variety Office
+│   ├── EC institutional body
+│   ├── ECHO
+│   ├── EPSO
+│   │   └── European School of Administration
+│   ├── Eurofound
+│   ├── European Agency for Reconstruction
+│   ├── European Agency for Safety and Health at Work
+│   ├── European Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice
+│   ├── European Anti-fraud Office
+│   ├── European Association for Cooperation
+│   ├── European Asylum Support Office
+│   ├── European Aviation Safety Agency
+│   ├── European Banking Authority
+│   ├── European Centre for Disease Prevention and Control
+│   ├── European Chemicals Agency
+│   ├── European Environment Agency
+│   ├── European Fisheries Control Agency
+│   ├── European Food Safety Authority
+│   ├── European GNSS Agency
+│   ├── European Institute for Gender Equality
+│   ├── European Institute of Innovation and Technology
+│   ├── European Insurance and Occupational Pensions Authority
+│   ├── European Joint Undertaking
+│   ├── European Maritime Safety Agency
+│   ├── European Medicines Agency
+│   ├── European Monitoring Centre for Drugs and Drug Addiction
+│   ├── European Network and Information Security Agency
+│   ├── European Securities and Markets Authority
+│   ├── European Training Foundation
+│   ├── European Union Agency for Fundamental Rights
+│   ├── European Union Agency for Railways
+│   ├── European Union Intellectual Property Office
+│   ├── European agency
+│   ├── European foundation
+│   ├── Eurostat
+│   ├── Food and Veterinary Office
+│   ├── Frontex
+│   ├── Joint Research Centre
+│   ├── Publications Office of the European Union
+│   ├── Translation Centre for the Bodies of the European Union
+│   ├── committee (EU)
+│   │   ├── advisory committee (EU)
+│   │   ├── management committee (EU)
+│   │   ├── scientific committee (EU)
+│   │   └── standing committee (EU)
+│   └── executive agency
+├── EU relations
+│   ├── ACP-EU relationship
+│   ├── European neighbourhood policy
+│   │   └── Eastern Partnership
+│   ├── agreement (EU)
+│   │   ├── association agreement (EU)
+│   │   │   ├── ACP-EU Convention
+│   │   │   └── stabilisation and association agreement
+│   │   ├── cooperation agreement (EU)
+│   │   ├── negotiation of an agreement (EU)
+│   │   └── trade agreement (EU)
+│   ├── interim agreement (EU)
+│   ├── joint body (EU)
+│   ├── mixed agreement
+│   └── the EU's international role
+├── Eastern Malaysia
+├── Economic and Monetary Union
+│   ├── EU banking union
+│   ├── Economic and Financial Committee
+│   ├── European System of Central Banks
+│   │   └── Eurosystem
+│   ├── coordination of EMU policies
+│   ├── economic governance (EU)
+│   ├── single exchange-rate policy
+│   ├── single monetary policy
+│   └── timetable for EMU
+│       ├── second stage of EMU
+│       └── third stage of EMU
+├── Ecowas countries
+├── Europe
+├── European Communities
+│   ├── EAEC
+│   │   ├── EAEC Decision
+│   │   ├── EAEC Directive
+│   │   ├── EAEC Joint Undertaking
+│   │   │   └── Joint European Torus
+│   │   ├── EAEC Regulation
+│   │   ├── EAEC opinion
+│   │   ├── EAEC recommendation
+│   │   └── Euratom Supply Agency
+│   ├── ECSC
+│   └── European Community
+│       └── Community method
+├── European Monetary System
+│   ├── EMS exchange-rate mechanism
+│   ├── European Monetary Cooperation Fund
+│   ├── European Monetary Fund
+│   └── Monetary Committee (EU)
+├── European Region
+│   ├── Adriatic and Ionian region
+│   ├── Alpine Region
+│   ├── Atlantic Arc
+│   ├── Baltic Sea region
+│   ├── Danube region
+│   ├── Mediterranean region (EU)
+│   └── Rhine Valley
+├── European Union
+│   ├── area of freedom, security and justice
+│   │   ├── EU body for police and judicial cooperation
+│   │   ├── EU police cooperation
+│   │   └── judicial cooperation in criminal matters in the EU
+│   ├── common foreign and security policy
+│   │   ├── EU civilian mission
+│   │   ├── EU restrictive measure
+│   │   ├── Political and Security Committee
+│   │   └── Troika (EU)
+│   ├── cooperation in home affairs
+│   └── intergovernmental cooperation (EU)
+├── European civil service
+│   ├── European official
+│   │   ├── EC category B staff
+│   │   ├── EC category D staff
+│   │   └── administrator
+│   ├── competition (EU)
+│   ├── servant (EU)
+│   └── staff regulations (EU)
+├── European currency
+│   ├── Ecu
+│   └── euro
+│       ├── basket of currencies
+│       └── divergence indicator
+├── European organisation
+│   ├── BEUC
+│   ├── Belgo-Luxembourg Economic Union
+│   ├── Benelux
+│   ├── BusinessEurope
+│   ├── CEFTA
+│   ├── CEPT
+│   ├── CERN
+│   ├── Central Commission for Navigation on the Rhine
+│   ├── Council of Europe
+│   │   ├── Commission on Human Rights
+│   │   ├── Congress of Local and Regional Authorities of Europe
+│   │   ├── Council of Europe fund
+│   │   ├── European Centre for Parliamentary Research and Documentation
+│   │   └── European Court of Human Rights
+│   ├── Council of the Baltic Sea States
+│   ├── EADI
+│   ├── EBRD
+│   ├── EFTA
+│   │   └── EFTA Court
+│   ├── Eurocontrol
+│   ├── European Association of National Productivity Centres
+│   ├── European Atomic Energy Society
+│   ├── European Barge Union
+│   ├── European Broadcasting Union
+│   ├── European Centre of Enterprises with Public Participation
+│   ├── European Civil Aviation Conference
+│   ├── European Forest Institute
+│   ├── European Institute of Public Administration
+│   ├── European League for Economic Cooperation
+│   ├── European Patent Office
+│   ├── European Space Agency
+│   ├── European Trade Union Confederation
+│   │   └── European Trade Union Institute
+│   ├── European University Institute
+│   ├── European standardisation body
+│   │   ├── Cenelec
+│   │   └── ETSI
+│   ├── Eutelsat
+│   ├── Nordic Council
+│   ├── Unified Patent Court
+│   ├── Warsaw Pact Organisation
+│   └── Western European Union
+│       └── Eurocorps
+├── European treaties
+│   ├── EAEC Treaty
+│   ├── EC Accession Treaty
+│   ├── ECSC Treaty
+│   ├── EEC Treaty
+│   ├── EU Accession Treaty
+│   ├── European Constitution
+│   ├── Merger Treaty
+│   ├── Protocol (EU)
+│   ├── Single European Act
+│   ├── Treaty of Amsterdam
+│   ├── Treaty of Lisbon
+│   ├── Treaty of Nice
+│   ├── Treaty on European Union
+│   ├── Treaty on Stability, Coordination and Governance
+│   ├── Treaty on the Functioning of the EU
+│   └── revision of the Treaty (EU)
+├── Far East
+│   ├── China
+│   ├── Macao
+│   └── North Korea
+├── French overseas collectivity
+│   ├── French Polynesia
+│   ├── French Southern and Antarctic Territories
+│   ├── New Caledonia
+│   ├── Saint Barthélemy
+│   ├── Saint Martin
+│   ├── Saint Pierre and Miquelon
+│   └── Wallis and Futuna
+├── French overseas department and region
+│   ├── French Guiana
+│   ├── Guadeloupe
+│   ├── Martinique
+│   ├── Mayotte
+│   └── Réunion
+├── GCC countries
+├── ICFTU
+├── Institution of the Union
+├── LAES countries
+├── Latin America
+│   ├── Central America
+│   │   ├── Belize
+│   │   ├── Guatemala
+│   │   └── Panama
+│   └── South America
+├── Latin American organisation
+│   ├── ALADI
+│   ├── Andean Community
+│   ├── Central American Integration System
+│   │   └── Central American Parliament
+│   ├── Contadora Group
+│   ├── Inter-American Development Bank
+│   │   └── Institute for Latin American Integration
+│   ├── Latin American Economic System
+│   ├── Latin American Parliament
+│   ├── Mercosur
+│   ├── Pacific Alliance
+│   ├── Rio Group
+│   └── Union of South American Nations
+├── Leeward Islands
+├── Mediterranean third countries
+│   └── Palestine
+├── Member of Parliament
+│   ├── Statute for Members of the Parliament
+│   ├── alternate
+│   ├── elective office
+│   │   └── multiple office holding
+│   ├── financial interests of members
+│   ├── incompatibility
+│   ├── parliamentary allowance
+│   ├── parliamentary immunity
+│   ├── privilege
+│   └── secretarial allowance
+├── Mercosur countries
+├── Middle East
+│   ├── Gulf States
+│   │   └── United Arab Emirates
+│   │       ├── Sharjah
+│   │       └── Umm al Qaywayn
+│   ├── Israel
+│   ├── Mashreq
+│   └── former South Yemen
+├── NAFTA countries
+├── NATO countries
+├── Netherlands OCT
+│   ├── Aruba
+│   ├── Bonaire, Saint Eustatius and Saba
+│   │   └── Saba
+│   ├── Curaçao
+│   └── Sint Maarten
+├── Nordic Council countries
+│   ├── Faroe Islands
+│   ├── Greenland
+│   └── Åland
+├── North Africa
+│   ├── Great Maghreb
+│   └── Western Sahara
+├── North America
+│   ├── Bermuda
+│   ├── Canada
+│   └── United States
+├── Northern Europe
+│   └── Baltic States
+├── OAS countries
+│   ├── Antigua and Barbuda
+│   ├── Bahamas
+│   ├── Barbados
+│   ├── Dominica
+│   ├── Dominican Republic
+│   ├── Grenada
+│   ├── Guyana
+│   ├── Haiti
+│   ├── Jamaica
+│   ├── Saint Kitts and Nevis
+│   ├── Saint Lucia
+│   ├── Saint Vincent and the Grenadines
+│   ├── Surinam
+│   └── Trinidad and Tobago
+├── OECD countries
+├── OPEC countries
+│   ├── Iran
+│   └── Nigeria
+├── Oceania
+│   ├── Melanesia
+│   │   ├── Fiji
+│   │   ├── Papua New Guinea
+│   │   ├── Solomon Islands
+│   │   └── Vanuatu
+│   ├── Micronesia
+│   │   └── Mariana Islands
+│   ├── Norfolk Island
+│   └── Polynesia
+├── Peninsular Malaysia
+├── SAARC countries
+├── Sarawak
+├── South Asia
+│   ├── Bangladesh
+│   ├── Bhutan
+│   ├── British Indian Ocean Territory
+│   ├── India
+│   ├── Maldives
+│   ├── Nepal
+│   ├── Pakistan
+│   └── Sri Lanka
+├── South-East Asia
+│   └── East Timor
+├── Southern Europe
+│   └── Holy See
+├── Sporades
+├── State
+│   ├── Welfare State
+│   ├── confederal State
+│   ├── federal State
+│   ├── multiracial State
+│   ├── non-secular State
+│   ├── regional State
+│   ├── rule of law
+│   ├── secular State
+│   ├── symbol of State
+│   └── unitarian State
+├── TAB
+├── UN programmes and funds
+│   ├── UN Conference on Environment and Development
+│   ├── UN Conference on Trade and Development
+│   ├── UN Development Programme
+│   ├── UN Environment Programme
+│   │   └── Intergovernmental Panel on Climate Change
+│   ├── UN International Drug Control Programme
+│   ├── UN Population Fund
+│   ├── UN-Habitat
+│   ├── UNAIDS
+│   ├── UNHCR
+│   ├── UNRWA
+│   ├── Unicef
+│   └── World Food Programme
+├── UN research and training institutes
+│   ├── UN Centre for Regional Development
+│   ├── UN Institute for Disarmament Research
+│   ├── UN Institute for Training and Research
+│   ├── UN International Research and Training Institute for the Advancement of Women
+│   ├── UN Interregional Crime and Justice Research Institute
+│   └── UN Research Institute for Social Development
+├── UN specialised agency
+│   ├── FAO
+│   ├── International Centre for Genetic Engineering and Biotechnology
+│   ├── International Civil Aviation Organisation
+│   ├── International Fund for Agricultural Development
+│   ├── International Labour Organisation
+│   │   ├── International Labour Conference
+│   │   └── International Labour Office
+│   ├── International Maritime Organisation
+│   ├── International Monetary Fund
+│   ├── International Narcotics Control Board
+│   ├── International Telecommunication Union
+│   ├── UN Industrial Development Organisation
+│   ├── Unesco
+│   │   └── Unisist
+│   ├── Universal Postal Union
+│   ├── World Bank
+│   │   ├── International Bank for Reconstruction and Development
+│   │   ├── International Centre for Settlement of Investment Disputes
+│   │   └── Multilateral Investment Guarantee Agency
+│   ├── World Health Organisation
+│   ├── World Intellectual Property Organisation
+│   ├── World Meteorological Organisation
+│   └── World Tourism Organisation
+├── UNO
+│   ├── Ecosoc
+│   ├── International Court of Justice
+│   ├── UN General Assembly
+│   ├── UN Secretariat
+│   ├── UN Security Council
+│   ├── UN Trusteeship Council
+│   └── UN subsidiary body
+│       ├── UN Commission
+│       └── UN Standing Committee
+├── United Arab Emirates countries
+├── United Kingdom OCT
+│   ├── Anguilla
+│   ├── British Antarctic Territory
+│   ├── British Virgin Islands
+│   ├── Cayman Islands
+│   ├── Falkland Islands
+│   ├── Gibraltar
+│   ├── Montserrat
+│   ├── Pitcairn Islands
+│   ├── Saint Helena
+│   └── Turks and Caicos Islands
+├── Visegrad countries
+├── WAEMU countries
+│   ├── Benin
+│   ├── Burkina Faso
+│   ├── Côte d'Ivoire
+│   ├── Guinea-Bissau
+│   ├── Niger
+│   └── Senegal
+├── WCL
+├── WEU countries
+├── WFC
+├── Warsaw Pact countries
+├── Western Balkans
+├── Western Europe
+│   ├── Channel Islands
+│   │   └── Jersey 
+│   └── Isle of Man
+├── Western Thrace
+├── Windward Islands
+├── access to the courts
+│   ├── legal aid
+│   ├── local access to the law
+│   └── right of action
+├── accounting
+│   ├── account
+│   │   ├── consolidated account
+│   │   └── trading account
+│   ├── accountant
+│   ├── financial accounting
+│   │   ├── amortisation
+│   │   ├── capital depreciation
+│   │   ├── intangible asset
+│   │   └── working capital
+│   ├── operating result
+│   │   ├── cash flow
+│   │   ├── expenditure
+│   │   ├── financial loss
+│   │   ├── loss
+│   │   ├── profit
+│   │   └── revenue
+│   ├── provision
+│   └── turnover
+├── accounting system
+│   └── standardised accounting system
+├── administrative law
+│   ├── administrative contract
+│   ├── administrative measure
+│   ├── administrative offence
+│   ├── administrative powers
+│   ├── administrative procedure
+│   ├── administrative responsibility
+│   ├── administrative sanction
+│   ├── delegation of power
+│   ├── disciplinary proceedings
+│   └── public economic law
+├── administrative personnel
+│   ├── manager
+│   ├── office worker
+│   └── secretarial staff
+├── administrative structures
+│   ├── administrative autonomy
+│   ├── administrative cooperation
+│   ├── administrative reform
+│   ├── administrative unit
+│   ├── autonomy
+│   ├── civil service
+│   │   └── public service employee
+│   ├── decentralisation
+│   ├── devolution
+│   └── regionalisation
+├── advanced materials
+│   ├── amorphous materials
+│   ├── biomaterials
+│   ├── composite materials
+│   ├── shape-memory alloy
+│   ├── special polymer
+│   ├── superconducting alloy
+│   ├── technical ceramics
+│   └── ultra-fine particle
+├── agri-foodstuffs
+│   ├── agro-industry
+│   ├── food chemistry
+│   ├── food production
+│   └── tobacco industry
+├── agricultural holding
+│   ├── State farm
+│   ├── area of holding
+│   │   ├── large holding
+│   │   ├── main acreage
+│   │   ├── medium-sized holding
+│   │   ├── plot
+│   │   └── smallholding
+│   ├── collective farm
+│   └── dairy farm
+├── agricultural performance
+│   ├── agricultural productivity
+│   │   ├── crop losses
+│   │   └── land productivity
+│   ├── agricultural statistics
+│   │   └── agricultural census
+│   ├── farm accountancy data network
+│   │   └── farm return
+│   ├── farm income
+│   └── farmers' income
+├── agricultural policy
+│   ├── agrarian law
+│   ├── agrarian reform
+│   ├── agricultural economics
+│   ├── agricultural market
+│   │   └── EU agricultural market
+│   ├── agricultural sector representative body
+│   ├── agricultural situation
+│   ├── agronomic research
+│   │   └── model farm
+│   ├── aid to agriculture
+│   ├── land policies
+│   ├── mechanisation of agriculture
+│   ├── national agricultural policy
+│   ├── plant health legislation
+│   ├── quality control of agricultural products
+│   ├── regional farm policy
+│   │   └── hill farming
+│   ├── sustainable agriculture
+│   └── veterinary legislation
+│       └── veterinary inspection
+├── agricultural product
+│   └── agricultural by-product
+├── agricultural production policy
+│   ├── agricultural product nomenclature
+│   ├── alternative agricultural production
+│   │   └── alternative use of agricultural products
+│   ├── location of production
+│   ├── marketing year
+│   ├── producer group
+│   ├── production refund
+│   ├── redirection of production
+│   │   ├── grubbing premium
+│   │   └── slaughter premium
+│   └── set-aside
+├── agricultural real estate
+│   ├── land bank
+│   ├── land mobility
+│   ├── land reform
+│   ├── land restructuring
+│   ├── landholding system
+│   │   └── common land
+│   └── price of farm land
+├── aid policy
+│   ├── EDF
+│   ├── aid in kind
+│   ├── aid system
+│   │   ├── aid programme
+│   │   ├── coordination of aid
+│   │   ├── donor country
+│   │   ├── non-refundable aid
+│   │   ├── suspension of aid
+│   │   └── use of aid
+│   ├── assistance in training
+│   ├── bilateral aid
+│   ├── development aid
+│   ├── development worker
+│   ├── donation
+│   ├── economic aid
+│   ├── emergency aid
+│   ├── financial aid
+│   ├── food aid
+│   ├── foreign aid
+│   ├── health aid
+│   ├── multilateral aid
+│   ├── private aid
+│   └── source of aid
+├── air transport
+│   ├── aerostat
+│   ├── air cabotage
+│   ├── air traffic
+│   ├── aircraft fleet
+│   │   ├── aircraft
+│   │   └── helicopter
+│   ├── airline
+│   ├── airport
+│   │   └── ground handling
+│   ├── aviation security
+│   └── civil aviation
+├── animal health
+│   ├── animal disease
+│   │   ├── animal leucosis
+│   │   ├── animal plague
+│   │   └── rabies
+│   ├── animal welfare
+│   └── veterinary medicine
+├── animal nutrition
+│   ├── animal feedingstuffs
+│   │   └── fodder
+│   └── pet food
+├── animal product
+│   ├── animal skin
+│   ├── carcase
+│   ├── egg
+│   ├── honey
+│   ├── material of animal origin
+│   ├── meat
+│   │   ├── beef
+│   │   │   └── veal
+│   │   ├── boned meat
+│   │   ├── buffalo meat
+│   │   ├── fresh meat
+│   │   ├── game meat
+│   │   ├── goatmeat
+│   │   ├── horsemeat
+│   │   ├── offal
+│   │   ├── pigmeat
+│   │   └── sheepmeat
+│   ├── silk
+│   └── wool
+├── animal production
+│   ├── breeding animal
+│   ├── dairy production
+│   ├── domestic animal
+│   ├── farm animal
+│   │   └── slaughter animal
+│   ├── game animal
+│   ├── live animal
+│   ├── poultry
+│   │   ├── live poultry
+│   │   └── slaughtered poultry
+│   └── rabbit
+├── anti-discriminatory measure
+│   ├── age discrimination
+│   ├── discrimination based on disability
+│   ├── discrimination on the basis of nationality
+│   ├── discrimination on the basis of sexual orientation
+│   │   └── sexual minority
+│   ├── economic discrimination
+│   ├── ethnic discrimination
+│   ├── linguistic discrimination
+│   ├── political discrimination
+│   ├── protection of minorities
+│   ├── racial discrimination
+│   │   ├── apartheid
+│   │   ├── racial conflict
+│   │   └── racism
+│   ├── religious discrimination
+│   ├── sexual discrimination
+│   └── xenophobia
+├── applied sciences
+│   ├── agronomy
+│   ├── cybernetics
+│   ├── electrotechnology
+│   ├── industrial chemistry
+│   ├── information science
+│   ├── mathematics
+│   └── metrology
+├── aquaculture
+│   ├── crustacean farming
+│   ├── fish farming
+│   ├── fishery produce
+│   └── shellfish farming
+├── armed forces
+│   ├── air force
+│   ├── civilian personnel
+│   ├── forces abroad
+│   ├── land forces
+│   ├── mercenary
+│   ├── military discipline
+│   ├── military law
+│   ├── military personnel
+│   ├── military training
+│   │   └── military manoeuvres
+│   ├── national service
+│   ├── navy
+│   ├── paramilitary force
+│   ├── professional army
+│   └── reserve army
+├── arms policy
+│   ├── European arms policy
+│   ├── arms industry
+│   ├── arms supply
+│   ├── arms trade
+│   ├── harmonisation of weapons
+│   └── stockpiling of weapons
+├── artificial reproduction
+│   ├── surrogate mother
+│   └── test tube fertilisation
+├── arts
+│   ├── artistic profession
+│   ├── fine arts
+│   │   ├── architecture
+│   │   ├── painting
+│   │   └── sculpture
+│   ├── literary profession
+│   ├── literature
+│   ├── music
+│   ├── performing arts
+│   ├── popular art
+│   └── visual arts
+├── atomic bomb
+├── audiovisual equipment
+│   ├── radio equipment
+│   ├── recording
+│   ├── recording equipment
+│   ├── recording medium
+│   ├── sound reproduction equipment
+│   └── television equipment
+├── balance of payments
+│   ├── balance-of-payments deficit
+│   ├── invisible trade balance
+│   └── trade balance
+├── banking
+│   ├── arbitrage
+│   ├── bank charges
+│   ├── bank deposit
+│   ├── banking policy
+│   ├── banking profession
+│   ├── banking secrecy
+│   ├── banking supervision
+│   ├── banking system
+│   ├── electronic banking
+│   ├── exchange transaction
+│   └── law of banking
+├── behavioural sciences
+│   ├── criminology
+│   ├── psychoanalysis
+│   └── psychology
+├── beverage
+│   ├── alcoholic beverage
+│   │   ├── alcohol
+│   │   ├── spirits
+│   │   └── wine
+│   │       ├── fortified wine
+│   │       ├── table wine
+│   │       └── white wine
+│   └── non-alcoholic beverage
+│       ├── aerated drink
+│       └── mineral water
+├── biotechnology
+│   ├── bio-industry
+│   ├── bioconversion
+│   ├── biomass
+│   ├── bioprocess
+│   └── genetic engineering
+│       ├── cloning
+│       └── genetically modified organism
+│           └── transgenic plant
+├── branch of activity
+│   ├── distribution business
+│   ├── industrial enterprise
+│   ├── real estate business
+│   ├── rental business
+│   ├── services company
+│   │   └── start-up
+│   └── trust company
+├── budget financing
+│   ├── additional resources
+│   ├── advance
+│   ├── budget deficit
+│   └── budgetary resources
+├── budget policy
+│   ├── budget
+│   ├── budget volume
+│   ├── budgetary equilibrium
+│   ├── budgetary specification
+│   ├── financial autonomy
+│   ├── financial planning
+│   ├── inclusion in the budget
+│   ├── programme budgeting
+│   └── stability programme
+├── budgetary expenditure
+│   ├── administrative expenditure
+│   ├── extra-budgetary expenditure
+│   ├── operational expenditure
+│   └── public expenditure
+├── budgetary procedure
+│   ├── adoption of the budget
+│   │   └── finance act
+│   ├── amending budget
+│   ├── budget estimate
+│   ├── budgetary assessment
+│   ├── budgetary cooperation
+│   ├── budgetary power
+│   ├── drawing up of the budget
+│   │   ├── draft budget
+│   │   └── preliminary draft budget
+│   ├── rejection of the budget
+│   └── supplementary budget
+├── building industry
+│   ├── building
+│   ├── building materials
+│   │   ├── heat-resisting materials
+│   │   └── stone
+│   ├── building technique
+│   ├── construction equipment
+│   ├── metal structure
+│   └── prefabrication
+├── building services
+│   ├── air conditioning
+│   ├── building insulation
+│   ├── heating
+│   ├── lift
+│   ├── lighting
+│   └── plumbing equipment
+├── built-up area
+│   ├── rural settlement
+│   └── urban centre
+│       └── town
+│           ├── capital city
+│           ├── megalopolis
+│           ├── new town
+│           ├── residential area
+│           └── suburban area
+├── business activity
+│   ├── business morals
+│   ├── business name
+│   ├── cessation of trading
+│   ├── company buyout
+│   ├── company growth
+│   ├── company in difficulties
+│   ├── entrepreneurship
+│   ├── incorporation
+│   │   ├── registration of a company
+│   │   └── share capital
+│   ├── liquidation
+│   │   ├── bankruptcy
+│   │   └── receivership
+│   └── suspension of payments
+│       └── composition
+├── business policy
+│   ├── business administration
+│   ├── business location
+│   ├── business start-up
+│   ├── company modernisation
+│   ├── competitiveness
+│   ├── corporate governance
+│   ├── corporate social responsibility
+│   ├── inter-company cooperation
+│   ├── offshoring
+│   ├── organisational culture
+│   ├── social labelling
+│   └── transfer of businesses
+├── ceramics
+├── cereals
+│   ├── barley
+│   ├── buckwheat
+│   ├── fodder cereals
+│   ├── food cereals
+│   ├── maize
+│   ├── meslin
+│   ├── millet
+│   ├── oats
+│   ├── rice
+│   ├── rye
+│   ├── sorghum
+│   ├── triticale
+│   └── wheat
+│       ├── common wheat
+│       └── durum wheat
+├── chemical compound
+│   ├── acid
+│   ├── anhydride
+│   ├── chemical alcohol
+│   ├── chemical salt
+│   ├── inorganic chemical product
+│   ├── mineral compound
+│   ├── organic chemical
+│   │   └── organic acid
+│   └── oxide
+├── chemical element
+│   ├── carbon
+│   ├── halogen
+│   │   ├── bromine
+│   │   ├── chlorine
+│   │   ├── fluorine
+│   │   └── iodine
+│   ├── hydrogen
+│   ├── metalloid
+│   ├── nitrogen
+│   ├── oxygen
+│   ├── phosphorus
+│   ├── rare earth
+│   └── rare gas
+├── chemical industry
+│   ├── chemical accident
+│   ├── chemical product
+│   ├── chemicals legislation
+│   ├── glass industry
+│   ├── hydrogen production
+│   ├── raw chemical industry
+│   │   ├── dyestuffs industry
+│   │   └── paints and varnishes
+│   └── rubber industry
+│       └── pneumatic tyre
+├── citizen's duties
+├── civil law
+│   ├── abuse of power
+│   ├── contract
+│   │   ├── contract terms
+│   │   ├── digital contract
+│   │   ├── guarantee
+│   │   ├── mortgage
+│   │   └── termination of a contract
+│   ├── law of obligations
+│   │   └── debt
+│   ├── legal status
+│   │   ├── European legal status
+│   │   ├── civil status
+│   │   │   └── civil register
+│   │   ├── enjoyment of rights
+│   │   ├── legal capacity
+│   │   │   ├── age of majority
+│   │   │   ├── capacity to contract
+│   │   │   ├── capacity to exercise rights
+│   │   │   └── infancy
+│   │   ├── legal domicile
+│   │   └── legal person
+│   ├── liability
+│   │   ├── civil liability
+│   │   ├── contractual liability
+│   │   ├── damage
+│   │   ├── indemnification
+│   │   └── producer's liability
+│   └── misuse of a right
+├── climate
+│   ├── atmospheric conditions
+│   └── climatic zone
+│       ├── equatorial zone
+│       ├── frigid zone
+│       ├── humid zone
+│       ├── subtropical zone
+│       ├── temperate zone
+│       └── tropical zone
+├── climate change policy
+│   ├── adaptation to climate change
+│   ├── clean development mechanism
+│   ├── emission allowance
+│   │   └── EU emission allowance
+│   ├── emission trading
+│   │   └── EU Emissions Trading Scheme
+│   ├── joint implementation
+│   └── reduction of gas emissions
+├── coal industry
+│   ├── coal
+│   │   ├── coke
+│   │   └── lignite
+│   ├── coal by-products industry
+│   ├── coal mining
+│   ├── coal processing
+│   └── coalmining policy
+├── commercial law
+│   ├── commercial arbitration
+│   ├── commercial contract
+│   └── law on negotiable instruments
+├── commercial transaction
+│   ├── hire purchase
+│   ├── hiring
+│   ├── provision of services
+│   ├── purchase
+│   └── sale
+│       ├── direct selling
+│       ├── discount sale
+│       ├── distance selling
+│       ├── retail selling
+│       └── selling at a loss
+├── common agricultural policy
+│   ├── EU direct payments
+│   ├── agri-monetary policy
+│   │   ├── farm price support
+│   │   └── monetary compensatory amount
+│   ├── common organisation of markets
+│   │   ├── aid per hectare
+│   │   └── supplementary aid for products
+│   ├── farm development plan
+│   ├── reform of the CAP
+│   └── single payment scheme
+├── common commercial policy
+│   ├── Community preference
+│   ├── Nimexe
+│   ├── exclusion from treatment (EU)
+│   ├── extra-EU trade
+│   ├── intra-EU trade
+│   ├── preferential agreement
+│   └── supplementary trade mechanism
+├── common tariff policy
+│   ├── Union transit
+│   ├── common customs tariff
+│   │   └── Taric
+│   ├── countervailing charge
+│   └── customs territory (EU)
+├── communications industry
+│   ├── audiovisual industry
+│   ├── book trade
+│   │   └── printing
+│   ├── bookshop
+│   ├── communications profession
+│   ├── film industry
+│   ├── information technology
+│   ├── programmes industry
+│   │   ├── audiovisual production
+│   │   │   └── audiovisual co-production
+│   │   └── audiovisual programme
+│   ├── publishing
+│   │   ├── electronic publishing
+│   │   │   └── open access publishing
+│   │   ├── legal deposit
+│   │   ├── publisher
+│   │   └── publishing deadline
+│   └── telecommunications industry
+├── communications policy
+│   ├── audiovisual communications policy
+│   │   ├── European audiovisual area
+│   │   ├── audiovisual piracy
+│   │   └── free movement of programmes
+│   ├── control of communications
+│   │   ├── censorship
+│   │   └── monopoly of information
+│   ├── mass communications
+│   ├── pluralism in the media
+│   ├── public consultation
+│   └── public relations
+├── communications systems
+│   ├── Internet
+│   │   ├── Internet access provider
+│   │   ├── Internet address
+│   │   ├── Internet site
+│   │   ├── extranet
+│   │   ├── intranet
+│   │   ├── search engine
+│   │   └── semantic web
+│   ├── Internet of Things
+│   ├── postal and telecommunications services
+│   │   ├── postal charges
+│   │   └── postal service
+│   └── telecommunications
+│       ├── Videotex
+│       │   └── broadcast videography
+│       ├── electronic mail
+│       ├── telephone charges
+│       ├── video communications
+│       └── videophone conference
+├── company law
+│   └── protection of shareholders
+├── company structure
+│   ├── board of directors
+│   ├── board of management
+│   ├── company member
+│   ├── entrepreneur
+│   ├── establishment
+│   │   ├── agency abroad
+│   │   ├── branch
+│   │   ├── head office
+│   │   ├── parent company
+│   │   ├── regional agency
+│   │   └── subsidiary
+│   └── managing director
+├── competition law
+│   ├── anti-dumping legislation
+│   │   └── anti-dumping measure
+│   ├── anti-subsidy proceeding
+│   ├── anti-trust legislation
+│   ├── control of State aid
+│   ├── control of restrictive practices
+│   │   ├── exemption from restrictive-practice authorisation
+│   │   ├── restrictive-practice authorisation
+│   │   └── restrictive-practice notification
+│   └── merger control
+├── competition policy
+│   ├── EU competition policy
+│   ├── competition
+│   │   └── international competition
+│   └── free competition
+├── composition of parliament
+│   ├── bureau of parliament
+│   │   └── treasurer
+│   ├── conference of presidents
+│   ├── non-attached member
+│   ├── parliamentary chamber
+│   ├── parliamentary committee
+│   │   └── specialised committee
+│   ├── parliamentary delegation
+│   └── political group
+├── composition of the population
+│   ├── distribution by age
+│   │   ├── adult
+│   │   ├── child
+│   │   ├── early childhood
+│   │   ├── elderly person
+│   │   └── young person
+│   ├── distribution by sex
+│   ├── household
+│   │   ├── housewife
+│   │   └── one person household
+│   └── indigenous population
+├── computer system
+│   ├── computer centre
+│   ├── computer network
+│   ├── information security
+│   ├── information technology applications
+│   │   └── digital rights management
+│   ├── information technology user
+│   └── systems interconnection
+├── computer systems
+│   ├── computer applications
+│   │   ├── business data processing
+│   │   ├── computer assisted design
+│   │   ├── industrial data processing
+│   │   ├── legal data processing
+│   │   └── medical computing
+│   ├── hypermedia
+│   │   └── hypertext
+│   ├── impact of information technology
+│   ├── information technology profession
+│   ├── interactivity
+│   ├── picture synthesis
+│   ├── telematics
+│   └── virtual reality
+├── construction policy
+│   ├── building permit
+│   ├── building regulations
+│   ├── building safety
+│   ├── building speculation
+│   ├── building subsidy
+│   ├── construction costs
+│   ├── property development
+│   └── property market
+├── consumer
+│   ├── consumer behaviour
+│   ├── consumer policy
+│   └── consumer protection
+│       ├── consumer information
+│       │   └── European Consumer Centres Network
+│       ├── consumer law
+│       ├── consumer movement
+│       ├── product quality
+│       │   └── product designation
+│       └── product safety
+├── consumption
+│   ├── consumer demand
+│   ├── consumer society
+│   ├── consumption expenditure
+│   ├── domestic consumption
+│   ├── final consumption
+│   ├── food consumption
+│   ├── food expenditure
+│   ├── household consumption
+│   ├── intermediate consumption
+│   ├── own consumption
+│   ├── per capita consumption
+│   ├── wastage
+│   └── world consumption
+├── cooperation policy
+│   ├── Arab-African cooperation
+│   ├── Euro-Arab cooperation
+│   ├── European cooperation
+│   ├── South-South cooperation
+│   ├── Union for the Mediterranean
+│   ├── associated country
+│   ├── cooperation in the field of education
+│   ├── cooperation on agriculture
+│   ├── cross-border cooperation
+│   ├── cultural cooperation
+│   ├── customs cooperation
+│   ├── decentralised cooperation
+│   ├── economic cooperation
+│   ├── energy cooperation
+│   ├── environmental cooperation
+│   ├── financial cooperation
+│   ├── industrial cooperation
+│   ├── international cooperation
+│   ├── judicial cooperation
+│   │   └── European judicial area
+│   ├── legal cooperation
+│   ├── member country
+│   ├── military cooperation
+│   ├── non-associated country
+│   ├── police cooperation
+│   ├── political cooperation
+│   │   └── political integration
+│   ├── regional cooperation
+│   ├── scientific cooperation
+│   ├── technical cooperation
+│   ├── third country
+│   └── trade cooperation
+├── countries of the Pacific Community
+│   ├── American Samoa
+│   ├── Guam
+│   ├── Northern Mariana Islands
+│   └── Tokelau
+├── credit
+│   ├── agricultural credit
+│   ├── borrowing
+│   │   ├── indebtedness
+│   │   └── redemption
+│   ├── civil bankruptcy
+│   ├── consumer credit
+│   ├── credit rating
+│   ├── documentary credit
+│   ├── free credit
+│   ├── investment loan
+│   ├── loan
+│   ├── long-term credit
+│   ├── medium-term credit
+│   ├── microloan
+│   ├── real estate credit
+│   ├── short-term credit
+│   └── trade credit
+├── credit policy
+│   ├── cost of borrowing
+│   │   ├── interest
+│   │   └── interest rate subsidy
+│   ├── credit control
+│   ├── credit guarantee
+│   ├── discount rate
+│   ├── discounting
+│   └── rediscounting
+├── criminal law
+│   ├── international criminal law
+│   │   ├── extradition
+│   │   └── removal
+│   └── military criminal law
+├── criminal liability
+│   ├── aggravating circumstances
+│   ├── criminal responsibility of minors
+│   ├── impunity
+│   ├── mitigating circumstances
+│   ├── repentance
+│   └── victim
+├── crop production
+│   ├── agro-industrial cropping
+│   ├── arboriculture
+│   ├── cereal-growing
+│   ├── early fruit and vegetables
+│   ├── energy crop
+│   ├── floriculture
+│   ├── fodder-growing
+│   ├── fruit-growing
+│   ├── horticulture
+│   ├── living plant
+│   ├── market gardening
+│   ├── mushroom-growing
+│   ├── oil crop
+│   ├── olive-growing
+│   ├── plant disease
+│   ├── plant propagation
+│   ├── plant variety right
+│   ├── self-sufficiency farming
+│   ├── tropical agriculture
+│   └── viticulture
+├── cultivation system
+│   ├── crop rotation
+│   ├── cultivation under plastic
+│   ├── dry farming
+│   ├── extensive farming
+│   ├── glasshouse cultivation
+│   ├── hydroponics
+│   ├── intensive farming
+│   ├── irrigated agriculture
+│   ├── mixed cropping
+│   ├── organic farming
+│   ├── single-crop farming
+│   └── terrace cropping
+├── cultivation techniques
+│   ├── clearing of land
+│   ├── crop maintenance
+│   ├── fallow
+│   ├── harvest
+│   ├── plant health treatment
+│   ├── plantation
+│   │   └── replanting
+│   ├── soil improvement
+│   ├── soil preparation
+│   └── soil protection
+├── cultural policy
+│   ├── artistic creation
+│   ├── commemoration
+│   ├── cultural event
+│   ├── cultural exception
+│   ├── cultural heritage
+│   │   ├── anthem
+│   │   ├── architectural heritage
+│   │   ├── art trade
+│   │   ├── customs and traditions
+│   │   ├── flag
+│   │   ├── historic site
+│   │   ├── monument
+│   │   └── work of art
+│   ├── cultural promotion
+│   ├── cultural relations
+│   │   └── youth exchange scheme
+│   ├── culture industry
+│   ├── dissemination of culture
+│   ├── heritage protection
+│   ├── literary and artistic property
+│   ├── museum
+│   └── patronage
+├── culture
+│   ├── acculturation
+│   ├── civilisation
+│   ├── collective memory
+│   ├── cultural difference
+│   ├── cultural identity
+│   │   └── European identity
+│   ├── cultural movement
+│   ├── cultural pluralism
+│   ├── popular culture
+│   └── regional culture
+├── customs regulations
+│   ├── customs
+│   ├── customs debt
+│   ├── customs document
+│   ├── customs formalities
+│   │   └── simplification of formalities
+│   ├── customs fraud
+│   ├── customs inspection
+│   ├── customs valuation
+│   └── free zone
+├── customs tariff
+│   ├── customs duties
+│   ├── tariff ceiling
+│   ├── tariff nomenclature
+│   └── transit charge
+├── data processing
+│   ├── coding
+│   │   └── cryptography
+│   ├── data collection
+│   │   ├── downloading
+│   │   └── remote sensing
+│   ├── data protection
+│   ├── data recording
+│   ├── database
+│   │   └── on line data service
+│   ├── disclosure of information
+│   ├── information storage
+│   └── personal data
+├── data-processing law
+│   └── computer crime
+├── deepening of the European Union
+│   ├── EU activity
+│   │   └── EU action
+│   │       ├── EU initiative
+│   │       ├── declaration of Community interest
+│   │       └── project of common interest
+│   ├── EU situation
+│   ├── EU strategy
+│   │   └── integrated maritime policy
+│   ├── European Political Union
+│   ├── European integration
+│   │   └── promotion of the European idea
+│   ├── European political cooperation
+│   ├── citizens' Europe
+│   │   └── EU Charter of Fundamental Rights
+│   ├── economic and social cohesion
+│   │   └── trans-European network
+│   ├── enhanced cooperation
+│   ├── intra-EU relations
+│   │   └── Intergovernmental Convention (EU)
+│   └── single market
+│       └── digital single market
+├── defence policy
+│   ├── European defence policy
+│   ├── defence budget
+│   ├── defence expenditure
+│   ├── defence statistics
+│   ├── deterrent
+│   ├── military base
+│   ├── military science
+│   ├── military secret
+│   ├── rearmament
+│   ├── stationing of forces
+│   └── strategic defence
+├── degradation of the environment
+│   ├── acid rain
+│   ├── climate change
+│   ├── corrosion
+│   ├── defoliation
+│   ├── deforestation
+│   ├── desertification
+│   ├── destruction of crops
+│   ├── disaster area
+│   ├── fire
+│   ├── man-made disaster
+│   ├── natural disaster
+│   │   ├── agricultural disaster
+│   │   ├── cyclone
+│   │   ├── drought
+│   │   ├── flood
+│   │   └── volcanic eruption
+│   ├── polluted area
+│   └── sensitive area
+├── demography
+│   ├── births
+│   ├── demographic analysis
+│   │   ├── population census
+│   │   ├── population statistics
+│   │   └── world population
+│   ├── life expectancy
+│   ├── marriage rate
+│   ├── mortality
+│   └── population policy
+│       └── birth policy
+├── destination of transport
+│   ├── hinterland transport
+│   ├── inland transport
+│   ├── intercontinental transport
+│   ├── international transport
+│   ├── intra-EU transport
+│   ├── national transport
+│   ├── regional transport
+│   ├── transfrontier transport
+│   └── transit
+├── distributive trades
+│   ├── customers
+│   ├── delivery
+│   ├── distributor
+│   ├── goodwill
+│   ├── merchant
+│   │   └── commission agent
+│   ├── retail trade
+│   │   ├── affiliated retailing
+│   │   ├── franchising
+│   │   ├── independent retailer
+│   │   ├── pet shop
+│   │   ├── self-service store
+│   │   └── small retailer
+│   ├── sales occupation
+│   │   ├── broker
+│   │   ├── sales representative
+│   │   └── sales staff
+│   ├── supplier
+│   └── wholesale trade
+│       └── wholesale trading centre
+├── document
+│   ├── atlas
+│   ├── audiovisual document
+│   ├── biography
+│   ├── case study
+│   ├── comic book
+│   ├── commentary on a law
+│   ├── comparative study
+│   ├── conference proceedings
+│   ├── correspondence
+│   ├── dictionary
+│   ├── documentary tool
+│   ├── electronic document
+│   ├── encyclopaedia
+│   ├── form
+│   ├── graphic illustration
+│   ├── grey literature
+│   ├── guide
+│   ├── historical account
+│   ├── incunabula
+│   ├── manifesto
+│   ├── manuscript
+│   ├── microform
+│   ├── monograph
+│   ├── newspaper
+│   ├── official document
+│   │   ├── EU Official Journal
+│   │   ├── Official Journal
+│   │   ├── official seal
+│   │   └── parliamentary document
+│   ├── papal act
+│   ├── photograph
+│   ├── plan
+│   ├── press release
+│   ├── publication
+│   ├── quote
+│   ├── report
+│   │   ├── EU study report
+│   │   ├── activity report
+│   │   ├── monitoring report
+│   │   ├── research report
+│   │   └── scientific report
+│   ├── serial publication
+│   ├── speech
+│   │   └── public statement
+│   ├── thesis
+│   └── yearbook
+├── documentation
+│   ├── digital archiving
+│   ├── dissemination of information
+│   │   └── selective dissemination of information
+│   ├── document acquisition
+│   │   └── exchange of publications
+│   ├── document management
+│   ├── document retrieval
+│   ├── document storage
+│   ├── documentary reference recording
+│   ├── information analysis
+│   ├── metadata
+│   └── provision of documents
+├── drawing up of the EU budget
+│   ├── budgetary discipline (EU)
+│   │   ├── budgetary reserve (EU)
+│   │   ├── budgetary stabiliser
+│   │   └── multiannual financial framework
+│   ├── draft budget (EU)
+│   └── preliminary draft EC budget
+├── earth sciences
+│   ├── geography
+│   │   ├── economic geography
+│   │   ├── geographical information system
+│   │   └── regional geography
+│   ├── geology
+│   │   └── volcanology
+│   ├── geomorphology
+│   ├── hazard science
+│   ├── hydrology
+│   ├── meteorology
+│   │   └── climatology
+│   ├── oceanography
+│   └── soil science
+│       └── soil chemistry
+├── economic analysis
+│   ├── econometrics
+│   ├── economic consequence
+│   ├── economic indicator
+│   ├── economic structure
+│   ├── economic survey
+│   ├── economic value
+│   ├── impact study
+│   ├── input-output analysis
+│   ├── macroeconomics
+│   └── microeconomics
+├── economic concentration
+│   ├── conglomerate
+│   ├── demerger
+│   ├── group of companies
+│   ├── merger
+│   ├── shareholding
+│   └── takeover bid
+├── economic conditions
+│   ├── cost of living
+│   ├── economic activity
+│   ├── economic interdependence
+│   ├── economic resources
+│   └── economic situation
+├── economic cycle
+│   ├── cyclical fluctuation
+│   ├── economic fluctuation
+│   ├── economic recession
+│   ├── economic recovery
+│   ├── economic stabilisation
+│   ├── economic stagnation
+│   ├── inflation
+│   └── structural fluctuation
+├── economic development
+│   ├── basic needs
+│   ├── developing countries
+│   ├── development potential
+│   ├── economic disparity
+│   ├── economic growth
+│   ├── economic reconstruction
+│   ├── economic take-off
+│   ├── economic transition
+│   ├── growth point
+│   ├── industrialised country
+│   ├── integrated development
+│   ├── least-developed country
+│   ├── newly industrialised country
+│   └── underdevelopment
+├── economic forecasting
+│   ├── forward studies
+│   ├── long-term forecast
+│   ├── medium-term forecast
+│   └── short-term forecast
+├── economic planning
+│   ├── development plan
+│   ├── national planning
+│   ├── regional planning
+│   └── sectoral planning
+├── economic policy
+│   ├── allocation of resources
+│   ├── austerity policy
+│   ├── circular economy
+│   ├── deflation
+│   ├── deregulation
+│   ├── development policy
+│   │   └── sustainable development
+│   ├── economic convergence
+│   ├── economic conversion
+│   ├── economic integration
+│   ├── economic liberalism
+│   ├── incomes policy
+│   │   ├── guaranteed income
+│   │   └── income stabilisation
+│   ├── intervention policy
+│   │   └── support policy
+│   ├── protectionism
+│   ├── reflation
+│   ├── short-term economic policy
+│   └── structural policy
+├── economic region
+│   ├── coastal region
+│   ├── development region
+│   ├── frontier region
+│   ├── industrial region
+│   ├── island region
+│   ├── less-favoured region
+│   │   └── Mezzogiorno
+│   ├── peripheral region
+│   ├── priority region
+│   ├── region dependent on fishing
+│   ├── rural region
+│   │   ├── agricultural region
+│   │   └── mountain region
+│   └── tourist region
+├── economic rights
+│   ├── freedom of trade
+│   ├── right to development
+│   └── right to work
+├── economic sector
+│   ├── non-commercial sector
+│   ├── primary sector
+│   ├── quaternary sector
+│   ├── secondary sector
+│   └── tertiary sector
+├── economic support
+│   ├── EU aid
+│   │   └── ECSC aid
+│   ├── State aid
+│   ├── aid for restructuring
+│   ├── aid to industry
+│   ├── aid to undertakings
+│   ├── employment aid
+│   ├── export aid
+│   ├── investment aid
+│   ├── modernisation aid
+│   ├── production aid
+│   ├── redevelopment aid
+│   ├── regional aid
+│   ├── reimbursement of aid
+│   ├── sales aid
+│   └── sectoral aid
+├── economic system
+│   ├── collaborative economy
+│   ├── collectivism
+│   ├── common market
+│   ├── concerted economic action
+│   ├── controlled economy
+│   ├── economic reform
+│   ├── economic union
+│   ├── market economy
+│   ├── mixed economy
+│   └── planned economy
+├── economy
+│   ├── collectivised economy
+│   ├── economics profession
+│   ├── housekeeping economy
+│   ├── industrial economy
+│   ├── knowledge economy
+│   ├── national economy
+│   ├── post-industrial economy
+│   ├── public economy
+│   ├── regional economy
+│   ├── social economy
+│   ├── subsistence economy
+│   ├── underground economy
+│   ├── war economy
+│   └── world economy
+├── education
+│   ├── adult education
+│   ├── continuing education
+│   ├── education of foreigners
+│   └── mass education
+├── education policy
+│   ├── Eurydice
+│   ├── access to education
+│   ├── comparative education
+│   ├── democratisation of education
+│   ├── education budget
+│   ├── education costs
+│   ├── education statistics
+│   ├── educational exchange
+│   ├── educational planning
+│   ├── elimination of illiteracy
+│   ├── equivalence of diplomas
+│   ├── length of studies
+│   ├── recognition of diplomas
+│   ├── recognition of studies
+│   ├── school legislation
+│   ├── schooling
+│   ├── selection of pupils
+│   └── teaching quality
+├── educational institution
+│   ├── European school
+│   ├── boarding school
+│   ├── international school
+│   ├── national school
+│   └── school abroad
+├── election
+│   ├── European election
+│   ├── early election
+│   ├── local election
+│   ├── national election
+│   ├── parliamentary election
+│   ├── presidential election
+│   └── regional election
+├── electoral law
+├── electoral system
+│   ├── European electoral system
+│   ├── by-election
+│   ├── electoral reform
+│   ├── indirect election
+│   │   └── primary election
+│   ├── plebiscite
+│   ├── referendum
+│   └── universal suffrage
+├── electrical engineering
+│   ├── electric cable
+│   ├── electric machinery
+│   │   └── industrial electric machinery
+│   ├── electrical equipment
+│   │   └── electricity storage device
+│   ├── electro-magnetic equipment
+│   ├── household electrical appliance
+│   └── lighting equipment
+├── electrical industry
+│   ├── electrical energy
+│   ├── hydroelectric development
+│   ├── hydroelectric power
+│   └── power plant
+├── electronics industry
+│   ├── apparatus based on the use of rays
+│   ├── electronic component
+│   ├── electronic device
+│   ├── electronic equipment
+│   ├── microelectronics
+│   └── office equipment
+├── employment policy
+│   ├── EU employment policy
+│   │   ├── Employment Committee (EU)
+│   │   └── right of establishment
+│   ├── European Globalisation Adjustment Fund
+│   ├── access to a profession
+│   ├── change of job
+│   ├── designated employment
+│   ├── fight against unemployment
+│   ├── full employment
+│   ├── integration into employment
+│   ├── job creation
+│   ├── job preservation
+│   ├── job security
+│   ├── manpower planning
+│   ├── vocational retraining
+│   └── work permit
+├── employment structure
+│   ├── child labour
+│   ├── female work
+│   ├── full-time employment
+│   ├── holding of two jobs
+│   ├── moonlighting
+│   ├── non-standard employment
+│   │   ├── home working
+│   │   ├── seasonal employment
+│   │   └── temporary employment
+│   ├── self-employment
+│   ├── unpaid work
+│   └── youth employment
+├── energy industry
+│   ├── energy conversion
+│   ├── energy technology
+│   ├── energy-generating product
+│   ├── fuel
+│   │   └── fossil fuel
+│   └── hard energy
+├── energy policy
+│   ├── EU energy policy
+│   ├── European Energy Charter
+│   ├── agro-energy
+│   ├── decommissioning of power stations
+│   ├── energy audit
+│   │   ├── available energy
+│   │   ├── available energy resources
+│   │   ├── energy consumption
+│   │   ├── energy demand
+│   │   ├── energy efficiency
+│   │   ├── energy production
+│   │   ├── energy supply
+│   │   └── energy use
+│   ├── energy crisis
+│   ├── energy distribution
+│   ├── energy diversification
+│   ├── energy grid
+│   ├── energy law
+│   ├── energy research
+│   ├── energy saving
+│   │   ├── energy recovery
+│   │   └── summertime
+│   ├── energy site
+│   ├── energy storage
+│   ├── energy transport
+│   ├── peaceful use of energy
+│   ├── self-sufficiency in energy
+│   ├── siting of power stations
+│   └── substitute fuel
+│       ├── biofuel
+│       └── motor spirit
+├── enlargement of the Union
+│   ├── European Union membership
+│   │   └── opt-out clause
+│   ├── accession to the European Union
+│   │   ├── accession criteria
+│   │   ├── accession negotiations
+│   │   └── pre-accession strategy
+│   │       └── pre-accession aid
+│   ├── transitional period (EU)
+│   └── withdrawal from the EU
+├── environmental policy
+│   ├── EU environmental policy
+│   ├── area management
+│   ├── economic instrument for the environment
+│   │   ├── deposit on a polluting product
+│   │   └── tradeable emission permit
+│   ├── environmental cost
+│   ├── environmental economics
+│   ├── environmental education
+│   ├── environmental impact
+│   ├── environmental indicator
+│   ├── environmental industry
+│   ├── environmental law
+│   ├── environmental monitoring
+│   ├── environmental research
+│   ├── environmental risk prevention
+│   │   ├── industrial hazard
+│   │   └── natural hazard
+│   ├── fight against wastage
+│   ├── green economy
+│   ├── management of resources
+│   ├── political ecology
+│   └── quality of the environment
+├── environmental protection
+│   ├── coastal protection
+│   ├── conservation of resources
+│   ├── countryside conservation
+│   ├── fight against insects
+│   ├── fire protection
+│   ├── protected area
+│   │   └── nature reserve
+│   ├── protection of animal life
+│   │   └── protection of animals
+│   ├── protection of plant life
+│   ├── seismic monitoring
+│   └── water protection
+├── essential oil
+├── exchange policy
+│   ├── conversion rate
+│   ├── currency convertibility
+│   ├── exchange control
+│   ├── exchange rate
+│   │   └── exchange parity
+│   ├── exchange restriction
+│   └── foreign exchange market
+│       ├── foreign currency
+│       └── open market
+├── exchange-rate mechanism
+├── executive body
+│   ├── executive competence
+│   │   ├── administrative control
+│   │   ├── delegated legislation
+│   │   ├── domestic policy
+│   │   ├── government policy
+│   │   ├── ministerial responsibility
+│   │   ├── regulatory policy
+│   │   └── statutory power
+│   ├── governance
+│   └── government
+│       ├── Council of Ministers
+│       ├── government statement
+│       ├── head of government
+│       └── minister
+├── export policy
+│   ├── diversification of exports
+│   ├── export financing
+│   │   ├── compensatory financing
+│   │   ├── export credit
+│   │   ├── export refund
+│   │   └── remission of export duties
+│   ├── export levy
+│   ├── export monitoring
+│   └── export revenue
+├── family
+│   ├── breadwinner
+│   ├── conflict of generations
+│   ├── dependant
+│   ├── family by marriage
+│   ├── family policy
+│   ├── family solidarity
+│   ├── head of household
+│   ├── large family
+│   ├── motherhood
+│   ├── one-parent family
+│   ├── relationship
+│   │   └── abandoned child
+│   └── stepfamily
+├── family law
+│   ├── adoption law
+│   ├── adoption of a child
+│   │   └── international adoption
+│   ├── civil union
+│   ├── custody
+│   ├── descendant
+│   ├── divorce
+│   ├── emancipation
+│   ├── guardianship
+│   ├── judicial separation
+│   ├── maintenance obligation
+│   ├── marriage
+│   ├── matrimonial law
+│   ├── parental authority
+│   ├── parental responsibility
+│   ├── rights of access
+│   └── surname
+├── family planning
+│   └── birth control
+├── farm prices
+│   ├── activating price
+│   ├── basic price
+│   ├── free-at-frontier price
+│   ├── guaranteed minimum price
+│   ├── guide price
+│   ├── intervention price
+│   ├── mixed price
+│   ├── norm price
+│   ├── reference price
+│   ├── sluice-gate price
+│   ├── support price
+│   ├── target price
+│   ├── threshold price
+│   └── withdrawal price
+├── farming system
+│   ├── agroforestry
+│   ├── commercial farming
+│   ├── family farming
+│   ├── grouping of farms
+│   │   ├── agricultural cooperative
+│   │   └── group farming
+│   ├── kitchen garden
+│   ├── mixed farm
+│   ├── part-time farming
+│   └── subsistence farming
+├── fats
+│   ├── animal fats
+│   ├── food fat
+│   ├── industrial fat
+│   ├── margarine
+│   └── vegetable fats
+├── financial institution
+│   ├── bank
+│   │   ├── commercial bank
+│   │   ├── cooperative bank
+│   │   ├── development bank
+│   │   ├── finance house
+│   │   ├── mortgage bank
+│   │   ├── people's bank
+│   │   └── public bank
+│   ├── credit institution
+│   ├── investment company
+│   │   ├── UCITS fund
+│   │   ├── pension fund
+│   │   └── sovereign wealth fund
+│   ├── post office financial services
+│   └── special-status institution
+├── financial management
+│   ├── balance-sheet analysis
+│   ├── financial analysis
+│   └── financial requirements
+├── financial market
+│   ├── financial instrument
+│   │   └── financial derivative
+│   │       ├── futures market
+│   │       └── option contract
+│   ├── financial intervention
+│   ├── financial occupation
+│   ├── financial risk
+│   ├── financial situation
+│   ├── financial stability
+│   ├── financial statistics
+│   ├── financial supervision
+│   ├── financial transaction
+│   ├── issue of securities
+│   ├── securities
+│   │   └── share
+│   ├── shadow banking
+│   ├── spot market
+│   ├── stock exchange
+│   └── stock-exchange transaction
+├── financial services
+├── financing
+│   ├── Islamic finance
+│   ├── co-financing
+│   ├── crowdfunding
+│   ├── financing policy
+│   │   ├── corporate finance
+│   │   │   └── early-stage capital
+│   │   ├── financing method
+│   │   ├── financing plan
+│   │   └── self-financing
+│   ├── long-term financing
+│   ├── medium-term financing
+│   ├── microfinance
+│   ├── national financing
+│   ├── public financing
+│   ├── short-term financing
+│   └── supplementary financing
+├── financing of the EU budget
+│   ├── Community tax
+│   ├── ECSC levy
+│   ├── Member States' contribution
+│   │   ├── net contributor
+│   │   └── net recipient
+│   └── own resources
+├── fiscal policy
+│   ├── European tax cooperation
+│   ├── distribution of the tax burden
+│   ├── double taxation
+│   ├── fiscal monopoly
+│   ├── tax convention
+│   ├── tax debt write-off
+│   ├── tax exemption
+│   ├── tax harmonisation
+│   ├── tax incentive
+│   ├── tax inspection
+│   ├── tax law
+│   │   └── international tax law
+│   ├── tax reform
+│   └── tax relief
+├── fisheries policy
+│   ├── catch of fish
+│   │   ├── authorised catch
+│   │   ├── quantity of fish landed
+│   │   └── total catch
+│   ├── catch quota
+│   ├── common fisheries policy
+│   │   └── Community fisheries
+│   ├── fishery management
+│   │   └── conservation of fish stocks
+│   ├── fishery research
+│   ├── fishing agreement
+│   ├── fishing area
+│   │   └── catch area
+│   ├── fishing regulations
+│   │   ├── fishing licence
+│   │   ├── fishing rights
+│   │   └── fishing season
+│   └── sustainable fisheries
+├── fisheries structure
+│   ├── fishing fleet
+│   └── fishing port
+├── fishery resources
+│   ├── aquatic plant
+│   │   └── algae
+│   ├── crustacean
+│   ├── fish
+│   ├── mollusc
+│   └── plankton
+├── fishing grounds
+│   ├── freshwater fishing
+│   └── sea fishing
+├── fishing industry
+│   ├── fisherman
+│   ├── fishery product
+│   │   └── fresh fish
+│   ├── fishing revenue
+│   ├── fishing statistics
+│   ├── industrial fishing
+│   └── traditional fishing
+├── fodder plant
+│   ├── clover
+│   └── lucerne
+├── food additive
+│   ├── flavouring
+│   ├── food colouring
+│   │   └── artificial food colouring
+│   ├── food emulsifier
+│   ├── preservative
+│   ├── sweetener
+│   ├── texture agent
+│   └── trace element
+├── food control
+├── food industry
+│   ├── bakery
+│   ├── beverage industry
+│   ├── biscuit factory
+│   ├── cannery
+│   ├── catering
+│   ├── cheese factory
+│   ├── confectionery
+│   ├── dairy industry
+│   ├── flour milling
+│   ├── meat processing industry
+│   ├── oil mill
+│   ├── pastry-making
+│   └── sugar industry
+├── food technology
+│   ├── bread-making
+│   ├── denaturing
+│   ├── distillation
+│   ├── food preserving
+│   │   ├── deep-freezing
+│   │   ├── dehydration
+│   │   ├── freeze-drying
+│   │   ├── irradiation
+│   │   └── pasteurisation
+│   ├── food processing
+│   ├── slaughter of animals
+│   ├── storage of food
+│   ├── sugar refining
+│   └── vinification
+├── foodstuff
+│   ├── fresh product
+│   ├── organic product
+│   └── perishable goods
+├── foreign policy
+│   ├── imperialism
+│   ├── isolationism
+│   ├── neutrality
+│   └── non-alignment
+├── forest
+│   ├── Mediterranean forest
+│   ├── boreal forest
+│   ├── classified forest
+│   ├── coppiced woodland
+│   ├── forest plantation
+│   ├── high forest
+│   ├── mountain forest
+│   ├── natural forest
+│   ├── temperate forest
+│   ├── tree
+│   └── tropical forest
+├── forestry economics
+│   ├── forestry group
+│   ├── forestry holding
+│   ├── forestry statistics
+│   └── wood production
+├── forestry policy
+│   ├── European forestry policy
+│   │   └── EFICS
+│   ├── forest conservation
+│   │   └── forest ranger
+│   ├── forestry development
+│   ├── forestry legislation
+│   ├── forestry property
+│   │   ├── private forest
+│   │   └── publicly owned forest
+│   ├── forestry research
+│   ├── silviculture
+│   └── wooded area
+├── former GDR
+├── former USSR
+├── former socialist countries
+│   ├── Eastern Bloc countries
+│   │   ├── Czechoslovakia
+│   │   ├── German Democratic Republic
+│   │   └── USSR
+│   └── Yugoslavia
+├── free movement of capital
+│   ├── capital market
+│   ├── capital movement
+│   │   └── recycling of capital
+│   ├── financial legislation
+│   └── financial policy
+├── freedom to work
+├── fruit
+│   ├── citrus fruit
+│   ├── fresh fruit
+│   ├── grape
+│   ├── nut
+│   ├── pip fruit
+│   ├── soft fruit
+│   ├── stone fruit
+│   └── tropical fruit
+├── general education
+│   ├── art education
+│   ├── basic education
+│   ├── civics
+│   ├── education of young offenders
+│   ├── health education
+│   ├── language teaching
+│   │   ├── foreign language
+│   │   └── mother tongue
+│   ├── multidisciplinary education
+│   ├── physical education
+│   ├── scientific education
+│   ├── sex education
+│   └── special education
+├── geographical distribution of the population
+│   ├── concentration of the population
+│   ├── population density
+│   ├── residence
+│   │   ├── residential mobility
+│   │   └── secondary residence
+│   ├── rural population
+│   ├── town-country relationship
+│   └── urban population
+├── geophysical environment
+│   ├── arid zone
+│   ├── desert
+│   ├── estuary
+│   ├── island
+│   ├── karst area
+│   ├── lake
+│   ├── mountain
+│   ├── ocean
+│   ├── plain
+│   ├── polar region
+│   │   ├── Antarctica
+│   │   └── Arctic
+│   ├── sea
+│   │   ├── Black Sea
+│   │   ├── Caspian Sea
+│   │   └── Mediterranean Sea
+│   │       └── Aegean Sea
+│   └── watercourse
+├── goods and services
+│   ├── capital goods
+│   ├── consumer goods
+│   │   └── mass-consumption product
+│   ├── durable goods
+│   ├── intermediate goods
+│   ├── non-durable goods
+│   ├── personal effects
+│   ├── public goods
+│   ├── service
+│   │   ├── free service
+│   │   ├── payable service
+│   │   ├── services of general interest
+│   │   └── universal service
+│   └── used goods
+├── grande école
+├── habitat
+│   ├── rural habitat
+│   ├── slum
+│   └── urban habitat
+├── health care profession
+│   ├── dentist
+│   ├── doctor
+│   ├── midwife
+│   ├── nursing staff
+│   ├── paramedical profession
+│   ├── practitioner of alternative medicine
+│   ├── surgeon
+│   └── veterinarian
+├── health policy
+│   ├── e-Health
+│   ├── health care system
+│   │   ├── State health service
+│   │   ├── free medical care
+│   │   ├── private medical treatment
+│   │   ├── social medicine
+│   │   └── standard agreement health care
+│   ├── health costs
+│   ├── health expenditure
+│   │   └── pharmaceutical expenses
+│   ├── health service
+│   │   └── psychiatric institution
+│   ├── health statistics
+│   └── organisation of health care
+│       ├── disease prevention
+│       └── first aid
+├── housing
+│   ├── housing cooperative
+│   ├── housing law
+│   │   └── low rent
+│   ├── multi-storey dwelling
+│   ├── single-family housing
+│   ├── subsidised housing
+│   └── substandard housing
+├── housing policy
+│   ├── housing allocation
+│   ├── housing need
+│   └── improvement of housing
+├── human rights
+│   ├── charter on human rights
+│   ├── international human rights law
+│   │   └── crime against humanity
+│   └── protection of freedoms
+├── humanitarian aid
+│   ├── European voluntary service
+│   ├── aid to disaster victims
+│   ├── aid to refugees
+│   ├── international voluntary worker
+│   └── search and rescue
+├── hydrocarbon
+│   ├── natural gas
+│   │   └── shale gas
+│   ├── petroleum
+│   │   ├── crude oil
+│   │   └── offshore oil
+│   └── storage of hydrocarbons
+├── illness
+│   ├── allergy
+│   ├── blood disease
+│   ├── cancer
+│   ├── cardiovascular disease
+│   ├── chronic illness
+│   ├── congenital disease
+│   ├── disease of the nervous system
+│   ├── endemic disease
+│   ├── endocrine disease
+│   ├── epidemic
+│   ├── eye disease
+│   ├── food-borne disease
+│   ├── gastrointestinal disease
+│   ├── infectious disease
+│   ├── kidney disease
+│   ├── mental illness
+│   ├── nutritional disease
+│   │   └── malnutrition
+│   ├── orphan disease
+│   ├── respiratory disease
+│   ├── skin disease
+│   ├── trauma
+│   ├── tropical disease
+│   └── zoonosis
+├── implementation of the budget
+│   ├── budget appropriation
+│   ├── budget authorisation
+│   ├── budgetary control
+│   ├── budgetary discharge
+│   ├── carry-over of appropriations
+│   ├── commitment of expenditure
+│   ├── financial control
+│   ├── financial year
+│   ├── payment appropriation
+│   └── validation of expenditure
+├── import policy
+│   ├── import credit
+│   ├── import levy
+│   ├── import refund
+│   ├── import substitution
+│   └── surveillance concerning imports
+├── income
+│   ├── compulsory saving
+│   ├── distribution of income
+│   │   ├── distribution of wealth
+│   │   ├── low income
+│   │   ├── pauperisation
+│   │   └── poverty
+│   ├── household budget
+│   ├── household income
+│   ├── overlapping of income
+│   ├── purchasing power
+│   ├── redistribution of income
+│   ├── savings
+│   ├── social transfers
+│   └── standard of living
+├── industrial manufacturing
+│   ├── automation
+│   ├── industrial espionage
+│   ├── industrial secret
+│   ├── mechanisation
+│   ├── product design
+│   │   ├── prototype
+│   │   └── testing
+│   ├── production control
+│   ├── quality control of industrial products
+│   └── robotisation
+│       └── industrial robot
+├── industrial plant
+│   ├── aromatic plant
+│   ├── hops
+│   ├── medical plant
+│   ├── sugar cane
+│   └── tobacco
+├── industrial policy
+│   ├── EU industrial policy
+│   ├── business park
+│   ├── industrial accident
+│   ├── industrial development
+│   ├── industrial financing
+│   │   ├── industrial credit
+│   │   └── industrial investment
+│   ├── industrial infrastructure
+│   │   ├── industrial building
+│   │   ├── industrial equipment
+│   │   └── turnkey factory
+│   ├── industrial operating licence
+│   ├── industrial planning
+│   ├── industrial price
+│   ├── industrial project
+│   ├── industrial reorganisation
+│   ├── industrial revolution
+│   ├── industrial statistics
+│   ├── industrialisation
+│   ├── inter-industrial relations
+│   ├── location of industry
+│   │   └── industrial free zone
+│   ├── modernisation of industry
+│   └── technology park
+├── industrial production
+│   ├── by-product
+│   ├── industrial product
+│   └── new product
+├── industrial structures
+│   ├── advanced technology industry
+│   ├── export industry
+│   ├── handicrafts
+│   │   └── craft production
+│   ├── heavy industry
+│   ├── light industry
+│   ├── processing industry
+│   └── small and medium industries
+├── information
+│   ├── consultation of information
+│   ├── display
+│   ├── exchange of information
+│   ├── information medium
+│   ├── information network
+│   ├── information profession
+│   ├── information system
+│   ├── reprography
+│   └── source of information
+├── information policy
+│   ├── access to information
+│   │   └── confidentiality
+│   ├── big data
+│   ├── centralisation of information
+│   ├── information industry
+│   ├── information society
+│   ├── law relating to information
+│   └── open data
+├── information processing
+│   ├── artificial intelligence
+│   ├── economic intelligence
+│   ├── interpreting
+│   ├── machine translation
+│   ├── popularising science
+│   ├── terminology
+│   ├── translation
+│   └── transliteration
+├── information service
+│   ├── archives
+│   ├── documentation centre
+│   ├── information centre
+│   ├── information user
+│   ├── library
+│   ├── media library
+│   ├── record library
+│   ├── toy library
+│   └── video library
+├── information technology industry
+│   ├── computer equipment
+│   │   ├── computer
+│   │   │   └── micro-computer
+│   │   └── peripheral
+│   └── software
+│       ├── database management system
+│       ├── open source software
+│       └── programming language
+├── inland waterway transport
+│   ├── inland waterway fleet
+│   │   └── barge carrier ship
+│   ├── inland waterway shipping
+│   ├── network of navigable waterways
+│   │   ├── inland waterway
+│   │   └── international waterway
+│   ├── push towing
+│   ├── rafting
+│   └── waterway transport
+├── institutional activity
+│   ├── competence of the institution
+│   ├── institutional agreement
+│   ├── institutional reform
+│   ├── interinstitutional relations
+│   │   └── institutional cooperation
+│   ├── official language
+│   ├── rules of procedure
+│   └── seat of institution
+├── institutional structure
+│   ├── decision-making body (EU)
+│   ├── president of an institution
+│   ├── secretariat of an Institution
+│   └── vice-president of an institution
+├── insurance
+│   ├── agricultural insurance
+│   ├── co-insurance
+│   ├── compulsory insurance
+│   ├── credit insurance
+│   ├── export credit insurance
+│   ├── indemnity insurance
+│   ├── insurance company
+│   ├── insurance contract
+│   │   ├── insurance claim
+│   │   ├── insurance premium
+│   │   └── insured risk
+│   ├── insurance law
+│   ├── insurance occupation
+│   ├── life assurance
+│   ├── personal accident insurance
+│   ├── personal insurance
+│   ├── private insurance
+│   ├── property insurance
+│   ├── public insurance
+│   ├── reinsurance
+│   ├── third-party insurance
+│   └── transport insurance
+│       ├── marine insurance
+│       └── motor vehicle insurance
+├── intellectual property
+│   ├── copyright
+│   │   ├── artist's resale right
+│   │   └── copyright exception
+│   └── industrial property
+│       └── trademark
+├── intergovernmental legal instrument
+│   ├── common position
+│   ├── common strategy
+│   ├── framework decision
+│   └── joint action
+├── internal migration
+│   ├── commuting
+│   ├── interurban migration
+│   ├── intraurban commuting
+│   ├── migration from the countryside to the town
+│   ├── nomadism
+│   ├── rural migration
+│   └── seasonal migration
+├── international affairs
+│   ├── East-West relations
+│   ├── North-South relations
+│   ├── bilateral relations
+│   ├── diplomatic relations
+│   │   ├── diplomatic protection
+│   │   ├── diplomatic protocol
+│   │   ├── diplomatic representation
+│   │   │   ├── diplomatic profession
+│   │   │   └── observer
+│   │   └── parliamentary diplomacy
+│   ├── economic relations
+│   ├── economic sanctions
+│   ├── fact-finding mission
+│   ├── international aid
+│   ├── international meeting
+│   │   └── summit meeting
+│   ├── international relations
+│   ├── international sanctions
+│   ├── military sanctions
+│   ├── multilateral relations
+│   ├── new economic order
+│   ├── official visit
+│   ├── relations between the two German States
+│   └── transatlantic relations
+├── international agreement
+│   ├── accession to an agreement
+│   ├── association agreement
+│   ├── bilateral agreement
+│   ├── cooperation agreement
+│   ├── economic agreement
+│   ├── financial compensation of an agreement
+│   ├── framework agreement
+│   ├── international negotiations
+│   ├── multilateral agreement
+│   ├── protective clause
+│   ├── protocol to an agreement
+│   ├── ratification of an agreement
+│   ├── renewal of an agreement
+│   ├── revision of an agreement
+│   ├── signature of an agreement
+│   └── withdrawal from an agreement
+├── international conflict
+│   ├── cold war
+│   ├── conflict prevention
+│   ├── interference
+│   ├── international dispute
+│   ├── international humanitarian law
+│   ├── law of war
+│   ├── military intervention
+│   ├── military occupation
+│   ├── occupied territory
+│   ├── post-Cold War
+│   ├── post-war period
+│   ├── war
+│   │   ├── asymmetric warfare
+│   │   ├── border war
+│   │   ├── ethnic cleansing
+│   │   ├── nuclear war
+│   │   └── war of independence
+│   └── war damage
+├── international economic law
+│   └── international trade law
+├── international finance
+│   ├── external debt
+│   │   └── debt reduction
+│   ├── financial agreement
+│   ├── foreign-exchange reserves
+│   ├── international liquidity
+│   │   └── special drawing rights
+│   ├── international loan
+│   ├── international monetary system
+│   ├── international payment
+│   └── monetary crisis
+├── international instrument
+│   ├── UN international covenant
+│   ├── code of conduct
+│   ├── international charter
+│   ├── international convention
+│   │   └── UN convention
+│   ├── recommendation
+│   └── resolution
+├── international issue
+│   ├── Armenian question
+│   ├── Chechen question
+│   ├── Crimea question
+│   ├── Cyprus question
+│   ├── Kaliningrad question
+│   ├── Kashmir question
+│   ├── Kosovo question
+│   ├── Kurdistan question
+│   ├── Palestine question
+│   ├── South China Sea question 
+│   ├── Tibetan question
+│   ├── West Bank question
+│   ├── political status
+│   ├── refugee
+│   ├── status of Berlin
+│   ├── status of Jerusalem
+│   └── unification of Germany
+├── international labour law
+├── international law
+│   ├── EU law - international law
+│   └── international law - national law
+├── international organisation
+│   ├── enlargement of an international organisation
+│   ├── exclusion from an international organisation
+│   ├── international civil service
+│   │   └── international civil servant
+│   └── parliamentary assembly
+├── international security
+│   ├── Conference on Disarmament in Europe
+│   ├── Euro-missile
+│   ├── European security
+│   ├── arms control
+│   ├── demilitarised zone
+│   ├── disarmament
+│   │   ├── arms limitation
+│   │   │   ├── SALT Agreement
+│   │   │   └── START agreement
+│   │   ├── mine action
+│   │   ├── nuclear non-proliferation
+│   │   │   ├── creation of nuclear-free zones
+│   │   │   └── peace zone
+│   │   └── weapons' destruction
+│   ├── militarisation of space
+│   ├── non-proliferation of arms
+│   └── regional security
+├── international trade
+│   ├── East-West trade
+│   ├── North-South trade
+│   ├── incoterms
+│   ├── international commercial arbitration
+│   ├── international division of labour
+│   │   ├── regionalisation of trade
+│   │   └── specialisation of trade
+│   ├── liberalisation of trade
+│   ├── most favoured nation
+│   ├── originating product
+│   │   └── certificate of origin
+│   ├── primary product
+│   │   └── raw material
+│   ├── sensitive product
+│   ├── social clause
+│   ├── trade by country
+│   └── trade by group of countries
+├── interparliamentary relations
+│   ├── inter-parliamentary cooperation
+│   └── interparliamentary delegation
+├── intra-company collective agreement
+├── investment
+│   ├── EU investment
+│   ├── direct investment
+│   ├── foreign investment
+│   ├── international investment
+│   ├── investment abroad
+│   ├── investment policy
+│   ├── private investment
+│   ├── public investment
+│   └── regional investment
+├── iron and steel industry
+│   ├── iron and steel product
+│   │   ├── cast-iron
+│   │   └── special steels
+│   └── iron and steel-working machinery
+├── judicial proceedings
+│   ├── admissibility
+│   │   └── interest in bringing an action
+│   ├── alternative dispute resolution
+│   ├── arbitration
+│   ├── backlog of court cases
+│   ├── challenge
+│   ├── civil procedure
+│   ├── collective redress
+│   ├── criminal procedure
+│   │   ├── detention before trial
+│   │   ├── judicial investigation
+│   │   ├── restorative justice
+│   │   ├── search
+│   │   └── witness protection
+│   ├── injunction
+│   ├── judicial review
+│   ├── legal hearing
+│   │   └── evidence
+│   ├── proof
+│   │   └── digital evidence
+│   ├── rights of the defence
+│   ├── special procedure
+│   │   ├── preliminary issue
+│   │   └── summary procedure
+│   └── transitional justice
+├── labour force
+│   ├── auxiliary worker
+│   ├── clandestine worker
+│   ├── expatriate worker
+│   ├── family worker
+│   ├── female worker
+│   ├── frontier worker
+│   ├── manual worker
+│   ├── migrant worker
+│   ├── multiskilled worker
+│   ├── non-working population
+│   ├── older worker
+│   ├── posted worker
+│   ├── professional qualifications
+│   │   └── skill obsolescence
+│   ├── seasonal worker
+│   ├── worker (EU)
+│   ├── worker with disabilities
+│   ├── working poor
+│   ├── working population
+│   │   └── population of working age
+│   └── young worker
+├── labour law
+│   ├── labour code
+│   ├── labour inspectorate
+│   ├── labour standard
+│   ├── professional secret
+│   ├── right to strike
+│   ├── social audit
+│   └── trade union rights
+├── labour market
+│   ├── EURES
+│   ├── employer
+│   ├── employment service
+│   ├── employment statistics
+│   ├── first job
+│   ├── job access
+│   ├── job application
+│   ├── job mobility
+│   ├── job vacancy
+│   ├── labour economics
+│   ├── labour flexibility
+│   ├── labour mobility
+│   ├── manpower needs
+│   │   └── labour shortage
+│   ├── new type of employment
+│   ├── professional experience
+│   ├── temporary employment agency
+│   └── worker adaptability
+├── labour relations
+│   ├── collective agreement
+│   ├── collective bargaining
+│   │   └── tripartite conference
+│   ├── labour dispute
+│   ├── social dialogue
+│   │   └── social dialogue (EU)
+│   ├── social partners
+│   │   └── trade union
+│   ├── worker participation
+│   │   ├── self-management
+│   │   ├── worker consultation
+│   │   ├── worker information
+│   │   └── workers' stock ownership
+│   └── workers' representation
+│       ├── trade union election
+│       └── works council
+├── land transport
+│   ├── rail transport
+│   │   ├── CIV Convention
+│   │   ├── rolling stock
+│   │   └── vehicle on rails
+│   └── road transport
+│       ├── ADR agreement
+│       └── AETR agreement
+├── land use
+│   ├── abandoned land
+│   ├── agricultural land
+│   ├── arable land
+│   ├── grassland
+│   ├── orchard
+│   ├── permanent crop
+│   ├── reclaimed land
+│   ├── uncultivated land
+│   └── vineyard
+├── law relating to prisons
+│   ├── penal institution
+│   │   └── youth detention centre
+│   ├── penitentiary staff
+│   ├── prison administration
+│   ├── prison system
+│   ├── prisoner
+│   └── transfer of prisoners
+├── leather industry
+│   ├── fancy leather goods and glove-making industry
+│   ├── footwear industry
+│   ├── hides and furskins industry
+│   └── leather
+├── leave on social grounds
+│   ├── maternity leave
+│   ├── parental leave
+│   ├── paternity leave
+│   └── sick leave
+├── legal action
+│   ├── action brought before an administrative court
+│   ├── appeal to the Court (EU)
+│   │   ├── EC action to establish liability
+│   │   ├── action by staff
+│   │   ├── action for annulment (EU)
+│   │   ├── action for failure to act
+│   │   ├── action for failure to fulfil an obligation
+│   │   ├── appeals by private individuals
+│   │   └── preliminary ruling procedure
+│   ├── civil proceedings
+│   └── criminal proceedings
+│       └── public prosecution
+├── legal profession
+│   ├── criminal investigation department
+│   ├── judge
+│   ├── lawyer
+│   ├── lay magistrate
+│   ├── magistrate
+│   ├── public legal official
+│   │   ├── bailiff
+│   │   ├── legal adviser
+│   │   └── notary
+│   └── public prosecutor's department
+├── legal science
+│   ├── Roman law
+│   ├── comparative law
+│   ├── constitutional law
+│   ├── history of law
+│   ├── internal law of religions
+│   │   ├── Buddhist law
+│   │   ├── Hebrew law
+│   │   ├── Hindu law
+│   │   └── canon law
+│   ├── interpretation of the law
+│   ├── legal methodology
+│   ├── natural law
+│   ├── private law
+│   │   └── European private law
+│   ├── public law
+│   └── sociology of law
+├── legal system
+│   ├── administrative court
+│   ├── constitutional court
+│   ├── court having special jurisdiction
+│   ├── courts and tribunals
+│   │   ├── court of arbitration
+│   │   ├── higher court
+│   │   └── international court
+│   ├── independence of the judiciary
+│   ├── judicial reform
+│   ├── jurisdiction
+│   │   └── extraterritorial jurisdiction
+│   ├── ordinary court of law
+│   │   ├── commercial court
+│   │   ├── court of civil jurisdiction
+│   │   ├── criminal court
+│   │   ├── juvenile court
+│   │   ├── labour tribunal
+│   │   ├── maritime court
+│   │   ├── military court
+│   │   └── social court
+│   └── repeal
+├── legislative procedure
+│   ├── amendment
+│   ├── amendment of a law
+│   ├── legislative drafting
+│   ├── legislative initiative
+│   ├── opinion
+│   ├── passage of a bill
+│   ├── promulgation of a law
+│   └── publication of a law
+├── leisure
+│   ├── animal show
+│   ├── gaming
+│   │   ├── automatic game
+│   │   └── gaming establishment
+│   ├── holiday
+│   │   └── staggering of holidays
+│   ├── leisure park
+│   │   └── zoo
+│   ├── sport
+│   │   ├── EU sport policy
+│   │   ├── hunting
+│   │   ├── sport fishing
+│   │   ├── sporting event
+│   │   └── sports body
+│   └── tourism
+│       ├── business tourism
+│       ├── catering industry
+│       ├── equitable tourism
+│       ├── mass tourism
+│       ├── religious tourism
+│       ├── river tourism
+│       ├── tourist exchange
+│       └── tourist infrastructure
+├── level of education
+│   ├── higher education
+│   ├── postgraduate education
+│   ├── pre-school education
+│   ├── primary education
+│   └── secondary education
+├── life sciences
+│   ├── biology
+│   │   ├── botany
+│   │   ├── embryo and foetus
+│   │   ├── microorganism
+│   │   └── radiobiology
+│   ├── ecology
+│   ├── parasitology
+│   └── pharmacology
+├── livestock
+│   ├── cattle
+│   │   ├── beef animal
+│   │   ├── bull
+│   │   ├── calf
+│   │   ├── cow
+│   │   │   └── suckler cow
+│   │   └── heifer
+│   ├── cervidae
+│   │   └── reindeer
+│   ├── equidae
+│   ├── goat
+│   ├── livestock unit
+│   ├── sheep
+│   └── swine
+├── livestock farming
+│   ├── animal breeding
+│   ├── apiculture
+│   ├── fattening
+│   ├── free-range farming
+│   ├── indoor livestock farming
+│   ├── intensive livestock farming
+│   ├── pasture fattening
+│   ├── poultry farming
+│   ├── sericulture
+│   └── zootechnics
+├── machinery
+│   ├── engine
+│   ├── hoisting equipment
+│   ├── hydraulic machinery
+│   ├── machine tool
+│   ├── pneumatic machinery
+│   ├── pump
+│   └── turbine
+├── majority voting
+│   ├── absolute majority
+│   ├── qualified majority
+│   ├── simple majority
+│   └── unanimity
+├── management
+│   ├── action programme
+│   │   └── feasibility study
+│   ├── audit
+│   ├── business management
+│   ├── crisis management
+│   ├── decision-making
+│   ├── intellectual capital
+│   ├── knowledge management
+│   ├── logistics
+│   ├── minimum stock
+│   ├── reserves
+│   └── risk management
+├── management accounting
+│   ├── accounting entry
+│   ├── auditing
+│   │   ├── compliance audit
+│   │   ├── financial audit
+│   │   └── performance audit
+│   ├── closing of accounts
+│   ├── cost analysis
+│   │   └── cost-benefit analysis
+│   ├── costing
+│   │   ├── cost of capital
+│   │   ├── direct cost
+│   │   ├── distribution cost
+│   │   ├── equipment cost
+│   │   ├── investment cost
+│   │   ├── operating cost
+│   │   ├── production cost
+│   │   └── storage cost
+│   ├── invoicing
+│   ├── payment
+│   └── publication of accounts
+├── management techniques
+│   ├── management audit
+│   ├── management information system
+│   ├── management planning
+│   ├── organisation chart
+│   ├── performance measurement
+│   └── quality control circle
+├── marital status
+│   ├── cohabitation
+│   ├── divorced person
+│   ├── married person
+│   ├── polygamy
+│   ├── separated person
+│   ├── single parent
+│   ├── unmarried person
+│   └── widowed person
+├── maritime transport
+│   ├── maritime cabotage
+│   ├── maritime conference
+│   ├── maritime law
+│   │   └── flag of convenience
+│   ├── maritime shipping
+│   ├── merchant fleet
+│   ├── ship canal
+│   │   └── Suez Canal
+│   ├── shipping policy
+│   └── vessel
+│       └── icebreaker
+├── market
+│   ├── EU market
+│   ├── commodities market
+│   ├── domestic market
+│   ├── foreign market
+│   └── international market
+├── market prices
+│   ├── consumer price
+│   ├── export price
+│   ├── food price
+│   ├── import price
+│   ├── offer price
+│   ├── price of agricultural produce
+│   ├── producer price
+│   ├── purchase price
+│   ├── retail price
+│   ├── selling price
+│   ├── wholesale price
+│   └── world market price
+├── marketing
+│   ├── advertising
+│   ├── after-sales service
+│   ├── designation of origin
+│   ├── market approval
+│   ├── market research
+│   ├── marketing standard
+│   ├── merchandising
+│   ├── quality label
+│   │   └── organic certification
+│   ├── sales promotion
+│   │   └── sponsorship
+│   ├── theory of marketing
+│   ├── trade event
+│   ├── trade information
+│   └── trade statistics
+├── materials technology
+│   ├── flat product
+│   │   ├── plate
+│   │   ├── sheet
+│   │   └── thin sheet
+│   ├── non-flat product
+│   │   ├── bar
+│   │   ├── ingot
+│   │   ├── strip
+│   │   └── tube
+│   ├── resistance of materials
+│   ├── section
+│   └── technological process
+├── means of agricultural production
+│   ├── agricultural building
+│   │   └── silo
+│   ├── agricultural equipment
+│   │   ├── agricultural implement
+│   │   ├── agricultural machinery
+│   │   │   └── tractor
+│   │   └── milking machine
+│   ├── fertiliser
+│   ├── plant health product
+│   │   ├── herbicide
+│   │   └── pesticide
+│   ├── seed
+│   └── seedling
+├── means of communication
+│   └── mass media
+│       ├── broadcasting
+│       ├── commercial media
+│       ├── local media
+│       ├── press
+│       │   ├── press agency
+│       │   └── scientific press
+│       ├── television
+│       └── waveband
+├── means of transport
+│   └── vehicle
+│       ├── agricultural vehicle
+│       ├── air-cushion vehicle
+│       ├── camping vehicle
+│       ├── electric vehicle
+│       ├── large vehicle
+│       ├── motor vehicle
+│       └── vehicle parts
+├── mechanical engineering
+│   ├── aeronautical industry
+│   ├── aerospace industry
+│   ├── cycle and motorcycle industry
+│   ├── general mechanical engineering
+│   ├── machine-tool industry
+│   ├── motor vehicle industry
+│   ├── railway industry
+│   ├── shipbuilding
+│   └── tool industry
+├── mechanical equipment
+│   ├── bearing
+│   ├── piping
+│   └── spare part
+├── medical science
+│   ├── anatomy
+│   ├── epidemiology
+│   ├── gerontology
+│   ├── immunology
+│   ├── medical research
+│   ├── medicine
+│   │   ├── emergency medical treatment
+│   │   ├── forensic medicine
+│   │   ├── medical report
+│   │   └── medical specialisation
+│   ├── surgery
+│   │   └── aesthetic surgery
+│   ├── therapeutics
+│   │   └── antimicrobial resistance
+│   └── toxicology
+├── metallurgical industry
+│   ├── bolt and screw industry
+│   ├── electrometallurgy
+│   ├── iron product
+│   ├── ironmongery
+│   ├── metal by-product
+│   ├── metal coating
+│   ├── metal furniture
+│   ├── metal product
+│   ├── metalwork
+│   ├── metalworking
+│   ├── powder metallurgy
+│   └── tinplate and cutlery industry
+├── metals
+│   ├── alloy
+│   ├── ferro-alloy
+│   ├── ferrous metal
+│   ├── heavy metal
+│   ├── non-ferrous metal
+│   │   ├── aluminium
+│   │   ├── antimony
+│   │   ├── bismuth
+│   │   ├── calcium
+│   │   ├── copper
+│   │   ├── manganese
+│   │   ├── potassium
+│   │   ├── sodium
+│   │   ├── tin
+│   │   └── tungsten
+│   ├── precious metal
+│   ├── semi-metal
+│   └── special metal
+├── migration
+│   ├── Community migration
+│   ├── diaspora
+│   ├── emigration
+│   │   └── brain drain
+│   ├── family migration
+│   ├── female migrant
+│   ├── forced migration
+│   ├── frontier migration
+│   ├── geographical mobility
+│   ├── immigration
+│   ├── migrant
+│   ├── migration for settlement purposes
+│   ├── migration policy
+│   │   ├── EU migration policy
+│   │   ├── migration control
+│   │   └── resettlement of persons
+│   ├── migratory movement
+│   ├── occupational migration
+│   └── return migration
+├── military equipment
+│   ├── conventional weapon
+│   ├── laser weapon
+│   ├── military aircraft
+│   │   ├── combat helicopter
+│   │   └── fighter aircraft
+│   ├── missile
+│   │   ├── ballistic missile
+│   │   ├── guided missile
+│   │   └── intercontinental missile
+│   ├── non-lethal weapon
+│   ├── prohibited weapon
+│   ├── small arms
+│   ├── space-based weapons
+│   ├── warships
+│   └── weapon of mass destruction
+├── milk product
+│   ├── butter
+│   ├── butter oil
+│   ├── cheese
+│   │   └── soft cheese
+│   ├── concentrated milk
+│   ├── cream
+│   ├── dairy ice cream
+│   ├── fermented milk
+│   │   └── yoghourt
+│   ├── milk
+│   │   ├── drinking milk
+│   │   ├── homogenised milk
+│   │   ├── pasteurised milk
+│   │   ├── skimmed milk
+│   │   └── whole milk
+│   ├── milk by-product
+│   ├── milk fat
+│   ├── powdered milk
+│   └── skimmed milk powder
+├── mining industry
+│   ├── mineral prospecting
+│   ├── mining of ore
+│   ├── mining operation
+│   ├── mining production
+│   ├── ore deposit
+│   └── ore processing
+├── mining product
+│   ├── bituminous materials
+│   ├── earths and stones
+│   ├── metallic ore
+│   ├── non-metallic ore
+│   │   ├── phosphate
+│   │   └── salt
+│   └── precious stones
+├── miscellaneous industries
+│   ├── decorative item
+│   ├── gift item
+│   ├── hand tool
+│   ├── household article
+│   ├── jewellery and goldsmith's articles
+│   ├── luxury products industry
+│   ├── musical instrument
+│   ├── office supplies
+│   ├── photographic industry
+│   ├── service industry
+│   │   ├── cleaning industry
+│   │   ├── consultancy
+│   │   ├── security services
+│   │   ├── service occupation
+│   │   └── taxi
+│   ├── sports equipment
+│   ├── toilet article
+│   └── toy industry
+├── mode of transport
+│   ├── cable transport
+│   ├── combined transport
+│   ├── pipeline transport
+│   │   ├── gas pipeline
+│   │   └── oil pipeline
+│   ├── surface transport
+│   └── underground transport
+├── monetary policy
+│   ├── central bank
+│   ├── currency adjustment
+│   │   └── devaluation
+│   ├── issuing of currency
+│   └── liquidity control
+├── monetary relations
+│   ├── currency area
+│   │   └── euro area
+│   │       ├── Euribor
+│   │       ├── non-participating country
+│   │       └── participating country
+│   ├── monetary agreement
+│   │   ├── European Monetary Agreement
+│   │   └── European Payments Union
+│   ├── monetary cooperation
+│   ├── monetary integration
+│   └── monetary union
+├── money market
+│   ├── Euromarket
+│   ├── interbank market
+│   ├── money
+│   │   └── deposit money
+│   │       └── credit transfer
+│   ├── money supply
+│   ├── money-market liquidity
+│   └── petrodollar
+├── national accounts
+│   ├── distribution per employed person
+│   ├── economic accounts for agriculture
+│   ├── economic aggregate
+│   │   ├── domestic product
+│   │   └── national expenditure
+│   ├── gross regional product
+│   ├── per capita distribution
+│   └── regional accounting
+├── national independence
+│   ├── colonialism
+│   ├── decolonisation
+│   ├── economic independence
+│   ├── national liberation movement
+│   ├── national unification
+│   ├── self-determination
+│   ├── self-sufficiency in food
+│   └── technological independence
+├── natural resources
+│   ├── animal resources
+│   ├── energy resources
+│   ├── mineral resources
+│   ├── plant resources
+│   ├── renewable resources
+│   ├── resources of the sea
+│   ├── soil resources
+│   ├── underwater mineral resources
+│   └── water resources
+├── non-governmental organisation
+│   ├── Amnesty International
+│   ├── Centre for the Development of Enterprise
+│   ├── Council of European Municipalities and Regions
+│   ├── IATA
+│   ├── IFLA
+│   ├── ISO
+│   ├── International Federation for Documentation
+│   ├── International Social Security Association
+│   ├── International Trade Union Confederation
+│   ├── Red Cross
+│   └── World Anti-Doping Agency
+├── nuclear energy
+│   ├── nuclear fuel
+│   └── radioactive materials
+├── nuclear industry
+│   ├── nuclear policy
+│   ├── nuclear safety
+│   │   ├── radiation protection
+│   │   └── radioactivity
+│   └── nuclear technology
+│       ├── nuclear chemistry
+│       ├── nuclear fission
+│       ├── nuclear fusion
+│       ├── nuclear test
+│       └── reactor cooling system
+├── nuclear power station
+│   └── nuclear reactor
+│       └── breeder reactor
+├── nuisance
+│   ├── dangerous substance
+│   │   ├── carcinogenic substance
+│   │   ├── endocrine disruptor
+│   │   ├── inflammable product
+│   │   └── toxic substance
+│   ├── electromagnetic interference
+│   ├── mechanical vibration
+│   ├── noise
+│   │   └── noise level
+│   ├── pollutant
+│   ├── radiation exposure
+│   └── thermal discharge
+├── nutrition
+│   ├── food hygiene
+│   ├── food poisoning
+│   ├── food policy
+│   ├── food resources
+│   ├── food safety
+│   ├── food security
+│   ├── food shortage
+│   │   ├── hunger
+│   │   └── undernourishment
+│   ├── foodstuffs legislation
+│   │   └── food inspection
+│   ├── human nutrition
+│   └── nutritional needs
+├── occupational status
+│   ├── assisting spouse
+│   ├── craftsman
+│   ├── liberal profession
+│   ├── self-employed person
+│   └── wage earner
+├── offence
+│   ├── complicity
+│   ├── corruption
+│   ├── crime against individuals
+│   │   ├── defamation
+│   │   ├── illegal restraint
+│   │   └── physical aggression
+│   ├── crime against property
+│   ├── criminal negligence
+│   ├── drug traffic
+│   ├── economic offence
+│   │   └── tax offence
+│   ├── environmental offence
+│   ├── hit-and-run
+│   ├── threat to national security
+│   ├── traffic offence
+│   └── unintentional crime
+├── oil industry
+│   ├── extraction of oil
+│   │   └── fracking
+│   ├── offshore drilling
+│   ├── offshore structure
+│   ├── oil technology
+│   │   └── oil refining
+│   ├── oilfield
+│   ├── petroleum exploration
+│   ├── petroleum policy
+│   └── petroleum production
+├── oleaginous plant
+│   ├── castor bean
+│   ├── groundnut
+│   ├── oil seed rape
+│   ├── olive
+│   ├── palm nut
+│   ├── seed flax
+│   ├── sesame
+│   ├── soya bean
+│   └── sunflower
+├── operation of the Institutions
+│   ├── administration of the Institutions
+│   ├── appointment of members
+│   ├── interinstitutional relations (EU)
+│   ├── powers of the institutions (EU)
+│   │   ├── institutional balance (EU)
+│   │   │   └── democratic deficit
+│   │   └── powers of the EP
+│   └── transparency in decision-making
+│       ├── access to EU information
+│       ├── dissemination of EU information
+│       └── public conduct of debates
+├── organisation
+│   ├── Economic Interest Grouping
+│   │   └── European Economic Interest Grouping
+│   ├── European company
+│   ├── company constituted under civil law
+│   ├── consortium
+│   ├── cooperative
+│   ├── firm governed by commercial law
+│   ├── holding company
+│   ├── institution of public utility
+│   ├── mixed-ownership company
+│   ├── non-profit organisation
+│   │   └── foundation
+│   ├── partly nationalised undertaking
+│   └── undisclosed partnership
+├── organisation of elections
+│   ├── candidate
+│   │   ├── announcement of candidacy
+│   │   ├── electoral deposit
+│   │   └── withdrawal of candidacy
+│   ├── division into constituencies
+│   ├── election campaign
+│   │   ├── election campaign publicity
+│   │   ├── election expenses
+│   │   ├── election financing
+│   │   ├── election programme
+│   │   └── electoral alliance
+│   └── electorate
+│       └── registration of voters
+├── organisation of professions
+│   ├── corporatism
+│   ├── interprofessional agreement
+│   ├── professional association
+│   ├── professional ethics
+│   └── professional society
+├── organisation of teaching
+│   ├── distribution of schools
+│   ├── educational guidance
+│   ├── educational reform
+│   ├── educational system
+│   ├── number of pupils
+│   ├── planning of the school year
+│   ├── school age
+│   ├── teaching curriculum
+│   └── vocational guidance
+├── organisation of transport
+│   ├── carriage for hire or reward
+│   ├── carriage of goods
+│   ├── carriage of passengers
+│   ├── cash-in-transit
+│   ├── contract of carriage
+│   ├── high-speed transport
+│   ├── intelligent transport system
+│   │   └── satellite navigation
+│   ├── length of journey
+│   ├── means of public conveyance
+│   ├── navigation aid
+│   ├── own-account transport
+│   ├── private means of transport
+│   ├── semi-public transport
+│   ├── transport capacity
+│   ├── transport company
+│   │   └── carrier
+│   ├── transport network
+│   │   └── transport lines
+│   ├── transport of animals
+│   ├── transport staff
+│   │   └── ground staff
+│   ├── urban transport
+│   │   └── town traffic
+│   └── vehicle rental
+├── organisation of work
+│   ├── arrangement of working time
+│   ├── assembly line work
+│   ├── team work
+│   ├── video display unit work
+│   ├── work study
+│   │   ├── allocation of work
+│   │   ├── rate of work
+│   │   └── work productivity
+│   └── working time
+│       └── shift work
+├── ownership
+│   ├── acquisition of property
+│   ├── division of property
+│   ├── easement
+│   ├── expropriation
+│   ├── joint ownership
+│   ├── land and buildings
+│   │   └── land register
+│   ├── law of succession
+│   ├── nationalisation
+│   ├── personal property
+│   ├── private property
+│   ├── privatisation
+│   ├── public property
+│   ├── real property
+│   ├── right of pre-emption
+│   ├── time-sharing
+│   ├── transfer of property
+│   │   └── inheritance
+│   └── usufruct
+├── parliament
+│   ├── national parliament
+│   └── regional parliament
+├── parliamentary procedure
+│   ├── adjournment
+│   ├── parliamentary rules of procedure
+│   ├── parliamentary session
+│   ├── parliamentary sitting
+│   ├── parliamentary vote
+│   │   ├── quorum
+│   │   ├── roll-call vote
+│   │   └── vote by delegation
+│   └── public hearing
+├── parliamentary seat
+│   ├── allocation of seats
+│   │   ├── allocation clause
+│   │   └── electoral quota
+│   └── vacant seat
+├── party organisation
+│   ├── formation of a party
+│   ├── party congress
+│   ├── party financing
+│   ├── political affiliation
+│   ├── political club
+│   ├── political executive
+│   ├── political militant
+│   ├── political programme
+│   └── political split
+├── pay policy
+│   ├── equal pay
+│   ├── minimum pay
+│   ├── monthly pay
+│   ├── pay cut
+│   ├── pay freeze
+│   ├── pay rise
+│   ├── wage determination
+│   │   └── wage indexing
+│   └── wages for housework
+├── peace
+│   ├── East-West policy
+│   ├── Partnership for Peace
+│   ├── establishment of peace
+│   ├── multinational force
+│   ├── peaceful co-existence
+│   ├── peacekeeping
+│   ├── settlement of disputes
+│   │   ├── cease-fire
+│   │   └── international arbitration
+│   └── state-building
+├── penalty
+│   ├── alternative sentence
+│   ├── carrying out of sentence
+│   │   ├── barring of penalties by limitation
+│   │   ├── reduction of sentence
+│   │   └── suspension of sentence
+│   ├── conditional discharge
+│   ├── confiscation of property
+│   ├── criminal record
+│   ├── death penalty
+│   ├── deprivation of rights
+│   ├── fine
+│   ├── imprisonment
+│   └── restriction of liberty
+├── personnel administration
+│   ├── administrative competition
+│   ├── appointment of staff
+│   ├── job description
+│   ├── probationary period
+│   ├── professional career
+│   │   ├── demotion
+│   │   ├── promotion
+│   │   ├── reassignment
+│   │   ├── seniority
+│   │   └── working life
+│   ├── recruitment
+│   ├── staff
+│   ├── staff assessment
+│   ├── staff regulations
+│   └── work contract
+├── petrochemicals
+│   └── petroleum product
+├── pharmaceutical industry
+│   ├── pharmaceutical product
+│   │   ├── homeopathic product
+│   │   ├── hormone
+│   │   ├── medicament
+│   │   │   ├── antibiotic
+│   │   │   ├── generic drug
+│   │   │   ├── orphan drug
+│   │   │   └── over-the-counter drug
+│   │   └── vitamin
+│   └── veterinary medicinal product
+│       └── veterinary drug
+├── philosophy of law
+├── physical environment
+│   ├── aquatic environment
+│   ├── atmosphere
+│   │   └── ozone
+│   ├── biosphere
+│   │   ├── biodiversity
+│   │   ├── invasive species
+│   │   └── pest
+│   │       └── harmful plant
+│   ├── ecological balance
+│   └── ecosystem
+│       ├── aquatic ecosystem
+│       ├── biotope
+│       ├── terrestrial ecosystem
+│       └── underground ecosystem
+├── physical sciences
+│   ├── acoustics
+│   ├── aerodynamics
+│   ├── chemistry
+│   │   └── biochemistry
+│   ├── electronics
+│   ├── ionising radiation
+│   ├── laser physics
+│   ├── nuclear physics
+│   │   ├── atom
+│   │   └── fundamental particle
+│   ├── optics
+│   ├── plasma physics
+│   ├── spectrometry
+│   └── thermodynamics
+├── policy on agricultural structures
+│   ├── agricultural advisory services
+│   ├── agricultural structure
+│   ├── allocation of land
+│   ├── cessation of farming
+│   ├── farm modernisation
+│   ├── installation allowance
+│   ├── reparcelling
+│   └── transfer of farms
+├── political ideology
+│   ├── Communism
+│   ├── Eurocommunism
+│   ├── Euroright
+│   ├── Fascism
+│   ├── Liberalism
+│   ├── Maoism
+│   ├── Marxism
+│   ├── National Socialism
+│   ├── Socialist International
+│   ├── Universalism
+│   ├── Workers International
+│   ├── anarchism
+│   ├── communalism
+│   ├── conservatism
+│   ├── ecologism
+│   ├── leftism
+│   ├── nationalism
+│   ├── political Islam
+│   ├── populism
+│   ├── regionalism
+│   ├── royalism
+│   ├── secularity
+│   ├── social democracy
+│   └── socialism
+├── political institution
+│   ├── head of State
+│   ├── protocol
+│   └── public authorities
+├── political parties
+│   ├── Christian Democratic Party
+│   ├── Communist Party
+│   ├── Conservative Party
+│   ├── Democratic Party
+│   ├── Ecology Party
+│   ├── European party
+│   ├── Labour Party
+│   ├── Liberal Party
+│   ├── Republican Party
+│   ├── Social Democratic Party
+│   ├── Socialist Party
+│   ├── extra-parliamentary party
+│   ├── extremist party
+│   ├── monarchist party
+│   ├── nationalist party
+│   ├── radical party
+│   └── regionalist party
+├── political philosophy
+│   ├── democracy
+│   │   ├── deliberative democracy
+│   │   ├── direct democracy
+│   │   └── representative democracy
+│   ├── legality
+│   ├── legitimacy
+│   └── separation of powers
+├── political power
+│   ├── advisory power
+│   ├── discretionary power
+│   ├── power of assessment
+│   ├── power of decision
+│   ├── power of implementation
+│   ├── power of initiative
+│   ├── power of ratification
+│   ├── power to appoint
+│   ├── power to negotiate
+│   ├── supervisory power
+│   │   └── supervisory body
+│   └── veto
+├── political rights
+│   ├── civil rights
+│   │   └── right to vote
+│   ├── freedom of assembly
+│   ├── freedom of association
+│   ├── freedom of communication
+│   ├── freedom of expression
+│   └── right to demonstrate
+├── political system
+│   ├── authoritarian regime
+│   ├── change of political system
+│   ├── constitutional monarchy
+│   ├── dictatorship
+│   ├── federalism
+│   ├── government-in-exile
+│   ├── military regime
+│   ├── monocracy
+│   ├── multiparty system
+│   ├── oligarchy
+│   ├── one-party system
+│   ├── parliamentary system
+│   ├── people's democracy
+│   ├── presidential régime
+│   ├── rebel government
+│   ├── republic
+│   └── two-party system
+├── political tendency
+│   ├── extreme left
+│   ├── extreme right
+│   ├── political centre
+│   ├── political left
+│   └── political right
+├── politics
+│   ├── bipolarisation
+│   ├── concentration of powers
+│   ├── interest group
+│   ├── legislative-executive relations
+│   ├── political alternation
+│   ├── political behaviour
+│   │   ├── personalisation of power
+│   │   ├── political involvement
+│   │   └── political morality
+│   ├── political coalition
+│   ├── political cohabitation
+│   ├── political communication
+│   ├── political crisis
+│   │   ├── cabinet reshuffle
+│   │   ├── dissolution of parliament
+│   │   ├── political arbitration
+│   │   └── resignation of the government
+│   ├── political culture
+│   ├── political figure
+│   ├── political majority
+│   ├── political minority
+│   │   └── hinge party
+│   ├── political motivation
+│   ├── political opposition
+│   ├── political propaganda
+│   ├── political reform
+│   ├── political representation
+│   ├── political responsibility
+│   ├── political situation
+│   ├── public office
+│   └── status of the person elected
+├── pollution
+│   ├── accidental pollution
+│   ├── acidification
+│   ├── atmospheric pollution
+│   │   └── greenhouse effect
+│   ├── chemical pollution
+│   ├── coastal pollution
+│   ├── food contamination
+│   ├── industrial pollution
+│   ├── local pollution
+│   ├── metal pollution
+│   ├── motor vehicle pollution
+│   ├── noise pollution
+│   ├── oil pollution
+│   ├── organic pollution
+│   ├── pollution from agricultural sources
+│   ├── pollution from ships
+│   ├── radioactive pollution
+│   ├── soil pollution
+│   ├── stratospheric pollution
+│   ├── thermal pollution
+│   ├── transfrontier pollution
+│   └── water pollution
+│       └── pollution of waterways
+├── pollution control measures
+│   ├── decontamination
+│   ├── noise protection
+│   ├── non-polluting vehicle
+│   ├── polluter pays principle
+│   ├── pollution control
+│   │   └── degree of pollution
+│   └── prevention of pollution
+├── population dynamics
+│   ├── depopulation
+│   ├── generation renewal
+│   ├── overpopulation
+│   ├── population ageing
+│   ├── population growth
+│   └── underpopulation
+├── ports policy
+│   ├── common ports policy
+│   ├── harbour installation
+│   ├── port administration
+│   └── port traffic
+├── powers of parliament
+│   ├── legislative period
+│   ├── parliamentary scrutiny
+│   │   ├── motion of censure
+│   │   └── parliamentary inquiry
+│   └── resolution of parliament
+├── precision engineering
+│   ├── clock and watch industry
+│   ├── measuring equipment
+│   ├── optical industry
+│   ├── precision instrument
+│   └── scientific apparatus
+├── preparation for market
+│   ├── bottling
+│   ├── bulk product
+│   ├── labelling
+│   ├── packaged product
+│   ├── packaging
+│   │   └── packaging product
+│   └── pre-packaging
+├── pressure equipment
+├── price fluctuation
+│   ├── price increase
+│   └── price reduction
+├── prices
+│   ├── additional duty
+│   ├── average price
+│   ├── bracket price
+│   ├── commodity price
+│   ├── cost price
+│   ├── discriminatory price
+│   ├── guaranteed price
+│   ├── maximum price
+│   ├── minimum price
+│   ├── price fixed in advance
+│   ├── price net of tax
+│   ├── reduced price
+│   ├── representative market price
+│   ├── representative price
+│   ├── trigger price
+│   └── unit price
+├── prices policy
+│   ├── common price policy
+│   ├── fixing of prices
+│   │   ├── free price
+│   │   └── price list
+│   ├── harmonisation of prices
+│   ├── price control
+│   │   ├── assessment of prices
+│   │   └── price freeze
+│   ├── price disparity
+│   ├── price formation
+│   ├── price index
+│   ├── price indexing
+│   ├── price regulations
+│   ├── price stability
+│   ├── price support
+│   └── publishing of prices
+├── private international law
+│   ├── identity document
+│   ├── national
+│   │   ├── EU national
+│   │   └── foreign national
+│   ├── nationality
+│   │   ├── dual nationality
+│   │   ├── naturalisation
+│   │   └── stateless person
+│   ├── nationality of legal persons
+│   └── rights of aliens
+├── processed food product
+│   ├── baby food
+│   ├── cereal product
+│   │   ├── bread
+│   │   ├── cereal flakes
+│   │   ├── cereal flour
+│   │   ├── groat
+│   │   ├── malt
+│   │   ├── meal
+│   │   └── pasta
+│   ├── condiment
+│   ├── confectionery product
+│   ├── dietary product
+│   ├── egg product
+│   ├── fish product
+│   ├── food substitute
+│   ├── food supplement
+│   ├── fruit product
+│   ├── gelatine
+│   ├── meat product
+│   ├── prepared foodstuff
+│   ├── starch
+│   ├── sugar product
+│   │   └── syrup
+│   └── vegetable product
+├── processed foodstuff
+│   ├── concentrated product
+│   ├── deep-frozen product
+│   ├── desiccated product
+│   ├── dried product
+│   ├── freeze-dried product
+│   ├── frozen product
+│   ├── functional food
+│   ├── instant product
+│   ├── irradiated product
+│   ├── preserved product
+│   ├── reconstituted product
+│   ├── refrigerated product
+│   ├── salted product
+│   └── smoked product
+├── production
+│   ├── EU production
+│   │   └── EU stock
+│   ├── national production
+│   ├── production statistics
+│   ├── surplus stock
+│   └── world production
+├── production policy
+│   ├── distribution of production
+│   ├── factor of production
+│   ├── increase in production
+│   ├── mode of production
+│   ├── organisation of production
+│   │   ├── assembly line production
+│   │   ├── maintenance
+│   │   └── mass production
+│   ├── product diversification
+│   ├── product specialisation
+│   ├── production capacity
+│   │   ├── economies of scale
+│   │   ├── over-production
+│   │   └── underproduction
+│   ├── production improvement
+│   ├── production planning
+│   │   └── production target
+│   ├── production quota
+│   └── production technique
+├── property leasing
+│   └── lease
+├── protein products
+│   ├── animal protein
+│   ├── milk protein
+│   ├── synthetic protein
+│   └── vegetable protein
+├── public administration
+│   ├── administration headquarters
+│   ├── administrative supervision
+│   ├── central government
+│   │   └── ministry
+│   ├── citizen-authority relations
+│   ├── electronic government
+│   ├── local government
+│   ├── policy analysis
+│   ├── policymaking
+│   ├── public institution
+│   ├── public policy
+│   ├── public service
+│   ├── public-private partnership
+│   ├── regional government
+│   └── representative of local or regional authority
+├── public contract
+│   ├── award of contract
+│   ├── invitation to tender
+│   ├── negotiated contract
+│   ├── service concession
+│   ├── services contract
+│   ├── supplies contract
+│   ├── tendering
+│   └── works contract
+├── public debt
+│   ├── public borrowing
+│   ├── redemption of public debt
+│   ├── rescheduling of public debt
+│   └── treasury bill
+├── public finance
+│   ├── Treasury
+│   ├── budgetary classification
+│   ├── extraordinary budget
+│   ├── financial equalisation
+│   ├── financial regulation
+│   ├── general budget
+│   ├── local authority finances
+│   │   └── local budget
+│   ├── national budget
+│   ├── public accounting
+│   ├── regional finances
+│   └── subsidiary budget
+├── public international law
+│   ├── air law
+│   │   ├── air space
+│   │   └── freedom of the skies
+│   ├── free movement of persons
+│   │   └── Schengen Agreement
+│   ├── international responsibility
+│   ├── law of outer space
+│   │   ├── extra-atmospheric space
+│   │   ├── space property right
+│   │   └── use of outer space
+│   ├── law of states
+│   ├── law of the sea
+│   │   ├── archipelago
+│   │   └── exclusive economic zone
+│   ├── mutual assistance
+│   ├── national sovereignty
+│   ├── recognition of a state
+│   ├── succession of states
+│   ├── supranationality
+│   └── territorial law
+├── public opinion
+│   ├── image
+│   └── public awareness campaign
+├── public safety
+│   ├── civil defence
+│   │   └── evacuation of the population
+│   ├── government violence
+│   ├── personal weapon
+│   ├── political violence
+│   │   ├── civil war
+│   │   ├── concentration camp
+│   │   ├── coup d'état
+│   │   ├── forced disappearance
+│   │   ├── political kidnapping
+│   │   ├── political prisoner
+│   │   ├── political refugee
+│   │   ├── terrorism
+│   │   └── torture
+│   ├── public order
+│   │   └── police
+│   └── whistleblowing
+├── public works
+│   ├── civil engineering
+│   ├── drainage
+│   ├── dredging
+│   ├── hydraulic works
+│   ├── large-scale construction
+│   └── road building
+├── refrigeration industry
+├── regional and local authorities
+│   ├── association of local authorities
+│   ├── autonomous community
+│   ├── county
+│   ├── department (France)
+│   ├── local authority
+│   ├── municipality
+│   ├── overseas countries and territories
+│   ├── overseas department (France)
+│   ├── overseas territory
+│   ├── province
+│   ├── region
+│   ├── regional authority
+│   └── territorial enclave
+├── regional policy
+│   ├── EU regional policy
+│   │   ├── eligible region
+│   │   └── operational programme
+│   ├── cross-border dimension
+│   ├── region-EU relationship
+│   ├── regional development
+│   ├── regional disparity
+│   ├── regional integration
+│   ├── rural development
+│   └── town and country planning
+├── regions and communities of Belgium
+│   ├── Belgian communities
+│   ├── Brussels region
+│   ├── Flanders (Belgium)
+│   │   ├── Province of Limbourg
+│   │   └── Province of West Flanders
+│   └── Walloon region (Belgium)
+│       ├── Province of Luxembourg
+│       ├── Province of Namur
+│       └── Province of Walloon Brabant
+├── regions of Austria
+│   ├── Burgenland
+│   ├── Carinthia
+│   ├── Lower Austria
+│   ├── Salzburg
+│   ├── Styria
+│   ├── Tyrol
+│   ├── Upper Austria
+│   ├── Vienna
+│   └── Vorarlberg
+├── regions of Bulgaria
+│   ├── Severen tsentralen (Bulgaria)
+│   ├── Severoiztochen (Bulgaria)
+│   │   ├── Dobrich region
+│   │   └── Shumen region
+│   ├── Severozapaden (Bulgaria)
+│   │   └── Vidin region
+│   ├── Yugoiztochen (Bulgaria)
+│   │   ├── Burgas region
+│   │   ├── Sliven region
+│   │   ├── Stara Zagora region
+│   │   └── Yambol region
+│   ├── Yugozapaden (Bulgaria)
+│   │   └── Sofia City region
+│   └── Yuzhen tsentralen (Bulgaria)
+├── regions of Croatia
+│   ├── Adriatic Croatia
+│   │   ├── County of  Istra
+│   │   ├── County of  Primorje-Gorski Kotar
+│   │   ├── County of  Split-Dalmatia
+│   │   └── County of  Šibenik-Knin
+│   ├── Central Croatia
+│   ├── Continental Croatia
+│   │   ├── City of Zagreb
+│   │   ├── County of  Bjelovar-Bilogora
+│   │   ├── County of  Karlovac
+│   │   ├── County of  Koprivnica-Križevci
+│   │   ├── County of  Krapina-Zagorje
+│   │   ├── County of  Požega-Slavonia
+│   │   ├── County of  Sisak-Moslavina
+│   │   ├── County of Brod-Posavina
+│   │   ├── County of Međimurje
+│   │   ├── County of Osijek-Baranja
+│   │   ├── County of Varaždin
+│   │   ├── County of Virovitica-Podravina
+│   │   ├── County of Vukovar-Srije
+│   │   └── County of Zagreb
+│   ├── Eastern Croatia
+│   ├── Highland Croatia
+│   ├── Northern Croatian Littoral
+│   └── Southern Croatian Littoral
+├── regions of Denmark
+│   ├── Bornholm (regional municipality)
+│   ├── Copenhagen (county)
+│   ├── Frederiksberg municipality
+│   ├── Frederiksborg (county)
+│   ├── Funen (county)
+│   ├── Greater Copenhagen
+│   ├── Hovedstaden (region)
+│   ├── Midtjylland (region)
+│   ├── Nordjylland (region)
+│   ├── North Jutland (county)
+│   ├── Ribe (county)
+│   ├── Ringkøbing (county)
+│   ├── Roskilde (county)
+│   ├── Sjælland (region)
+│   ├── South Jutland (county)
+│   ├── Storstrøm (county)
+│   ├── Syddanmark (region)
+│   ├── Vejle (county)
+│   ├── Viborg (county)
+│   ├── West Zealand (county)
+│   └── Århus (county)
+├── regions of Estonia
+│   ├── Central Estonia
+│   ├── North-eastern Estonia
+│   ├── Northern Estonia
+│   ├── Southern Estonia
+│   └── Western Estonia
+├── regions of Finland
+│   ├── Eastern Finland
+│   ├── Lapland
+│   ├── Oulu
+│   ├── Southern Finland
+│   ├── Uusimaa
+│   ├── Väli-Suomi
+│   └── Western Finland
+├── regions of France
+│   ├── Auvergne-Rhône-Alpes
+│   │   └── Auvergne
+│   ├── Bourgogne-Franche-Comté
+│   ├── Brittany
+│   ├── Centre-Val de Loire
+│   ├── Corsica
+│   ├── Grand Est
+│   │   ├── Alsace
+│   │   └── Lorraine
+│   ├── Hauts-de-France
+│   │   └── Nord-Pas-de-Calais
+│   ├── Ile-de-France
+│   ├── Loire Region
+│   ├── Normandie
+│   ├── Nouvelle-Aquitaine
+│   │   ├── Aquitaine
+│   │   └── Poitou-Charentes
+│   ├── Occitanie
+│   │   ├── Languedoc-Roussillon
+│   │   └── Midi-Pyrenées
+│   └── Provence-Alpes-Côte d'Azur
+├── regions of Germany
+│   ├── Baden-Württemberg
+│   ├── Bavaria
+│   ├── Berlin
+│   ├── Brandenburg
+│   ├── Bremen
+│   ├── Hamburg
+│   ├── Hesse
+│   ├── Lower Saxony
+│   ├── Mecklenburg-Western Pomerania
+│   ├── North Rhine-Westphalia
+│   ├── Rhineland-Palatinate
+│   ├── Saarland
+│   ├── Saxony
+│   ├── Saxony-Anhalt
+│   ├── Schleswig-Holstein
+│   └── Thuringia
+├── regions of Greece
+│   ├── Aegean Islands
+│   │   └── Southern Aegean
+│   ├── Attica
+│   ├── Central Greece
+│   ├── Crete
+│   ├── Epirus
+│   ├── Ionian Islands
+│   ├── Macedonia
+│   │   └── Eastern Macedonia and Thrace
+│   ├── Peloponnese
+│   ├── Thessaly
+│   └── Western Greece
+├── regions of Hungary
+│   ├── Central Hungary
+│   ├── Central Transdanubia
+│   ├── Northern Alföld
+│   ├── Northern Hungary
+│   ├── Southern Alföld
+│   ├── Southern Transdanubia
+│   └── Western Transdanubia
+├── regions of Ireland
+│   ├── Connacht
+│   ├── Leinster
+│   ├── Munster
+│   └── Ulster-Donegal
+├── regions of Italy
+│   ├── Abruzzi
+│   ├── Apulia
+│   ├── Basilicata
+│   ├── Calabria
+│   ├── Campania
+│   ├── Emilia-Romagna
+│   ├── Friuli-Venezia Giulia
+│   ├── Latium
+│   ├── Liguria
+│   ├── Lombardy
+│   ├── Marches
+│   ├── Molise
+│   ├── Piedmont
+│   ├── Sardinia
+│   ├── Sicily
+│   ├── Trentino-Alto Adige
+│   │   ├── Autonomous Province of Bolzano
+│   │   └── Autonomous Province of Trento
+│   ├── Tuscany
+│   ├── Umbria
+│   ├── Valle d'Aosta
+│   └── Veneto
+├── regions of Latvia
+│   ├── Kurzeme
+│   ├── Latgale
+│   ├── Riga
+│   ├── Vidzeme
+│   └── Zemgale
+├── regions of Lithuania
+│   ├── Alytus county
+│   ├── Kaunas county
+│   ├── Klaipeda county
+│   ├── Marijampolė county
+│   ├── Panevėžys county
+│   ├── Tauragė county
+│   ├── Telšiai county
+│   ├── Utena county
+│   ├── Vilnius county
+│   └── Šiauliai county
+├── regions of Poland
+│   ├── Greater Poland province
+│   ├── Holy Cross province
+│   ├── Kuyavia-Pomerania province
+│   ├── Little Poland province
+│   ├── Lodz province
+│   ├── Lower Carpathians province
+│   ├── Lower Silesia province
+│   ├── Lublin province
+│   ├── Lubus province
+│   ├── Mazovia province
+│   ├── Opole province
+│   ├── Podlachia province
+│   ├── Pomerania
+│   ├── Silesia province
+│   ├── Varmia-Mazuria province
+│   └── Western Pomerania province
+├── regions of Portugal
+│   ├── Alentejo
+│   ├── Algarve
+│   ├── Azores
+│   ├── Central Portugal
+│   ├── Lisbon and the Tagus Valley
+│   ├── Madeira
+│   └── Northern Portugal
+├── regions of Romania
+│   ├── Bucharest — Ilfov
+│   ├── Centru (Romania)
+│   │   ├── Alba
+│   │   ├── Brasov
+│   │   ├── Harghita
+│   │   └── Sibiu
+│   ├── Nord-Est (Romania)
+│   │   ├── Bacau
+│   │   ├── Neamt
+│   │   └── Suceava
+│   ├── Nord-Vest (Romania)
+│   │   ├── Cluj
+│   │   ├── Salaj
+│   │   └── Satu Mare
+│   ├── Sud — Muntenia (Romania)
+│   │   ├── Calarasi
+│   │   ├── Ialomita
+│   │   ├── Prahova
+│   │   └── Teleorman
+│   ├── Sud-Est (Romania)
+│   │   ├── Braila
+│   │   ├── Buzau
+│   │   ├── Galati
+│   │   ├── Tulcea
+│   │   └── Vrancea
+│   ├── Sud-Vest Oltenia (Romania)
+│   │   ├── Olt
+│   │   └── Vâlcea
+│   └── Vest (Romania)
+│       ├── Arad
+│       ├── Caras-Severin
+│       ├── Hunedoara
+│       └── Timis
+├── regions of Slovakia
+│   ├── Banská Bystrica region
+│   ├── Bratislava region
+│   ├── Košice region
+│   ├── Nitra region
+│   ├── Prešov region
+│   ├── Trenčín region
+│   ├── Trnava region
+│   └── Žilina region
+├── regions of Slovenia
+│   ├── Central Slovenia
+│   ├── Gorenjska
+│   ├── Goriška
+│   ├── Koroška
+│   ├── Notranjsko-kraška
+│   ├── Obalno-kraška
+│   ├── Podravska
+│   ├── Pomurska
+│   ├── Savinjska
+│   ├── South-east Slovenia
+│   ├── Spodnjeposavska
+│   └── Zasavska
+├── regions of Spain
+│   ├── Andalusia
+│   ├── Aragon
+│   ├── Balearic Islands
+│   ├── Basque Country
+│   ├── Canary Islands
+│   ├── Cantabria
+│   ├── Castile-La Mancha
+│   ├── Castile-Leon
+│   ├── Catalonia
+│   ├── Ceuta
+│   ├── Ceuta and Melilla
+│   ├── Community of Madrid
+│   ├── Community of Valencia
+│   ├── Extremadura
+│   ├── Galicia
+│   ├── Melilla
+│   ├── Navarre
+│   ├── Principality of Asturias
+│   ├── Region of Murcia
+│   └── Rioja
+├── regions of Sweden
+│   ├── East Middle Sweden
+│   │   └── Södermanland county
+│   ├── Middle Norrland (Sweden)
+│   ├── North Middle Sweden
+│   │   ├── Dalarna county
+│   │   └── Värmland county
+│   ├── Småland and the islands (Sweden)
+│   │   └── Gotland county
+│   ├── South Sweden
+│   │   ├── Blekinge county
+│   │   └── Skåne county
+│   ├── Stockholm
+│   ├── Upper Norrland (Sweden)
+│   │   └── Norrbotten county
+│   └── West Sweden
+│       ├── Halland county
+│       └── Västra Götaland county
+├── regions of the Czech Republic
+│   ├── Central Bohemia
+│   ├── Hradec Králové
+│   ├── Karlovy Vary
+│   ├── Liberec
+│   ├── Moravia-Silesia
+│   ├── Olomouc
+│   ├── Pardubice
+│   ├── Pilsen
+│   ├── Prague
+│   ├── Southern Bohemia
+│   ├── Southern Moravia
+│   ├── Ustí
+│   ├── Vysočina
+│   └── Zlín
+├── regions of the Netherlands
+│   ├── Drenthe
+│   ├── Flevoland
+│   ├── Friesland
+│   ├── Gelderland
+│   ├── Groningen
+│   ├── Limburg
+│   ├── North Brabant
+│   ├── North Holland
+│   ├── Overijssel
+│   ├── South Holland
+│   ├── Utrecht
+│   └── Zeeland
+├── regions of the United Kingdom
+│   ├── England
+│   │   ├── London
+│   │   ├── North East (England)
+│   │   ├── North West (England)
+│   │   └── West Midlands
+│   ├── Northern Ireland
+│   ├── Scotland
+│   └── Wales
+├── regulation of agricultural production
+│   ├── agricultural guidance
+│   ├── agricultural quota
+│   ├── agricultural surplus
+│   ├── agriculture-industry relationship
+│   ├── agriculture-trade relationship
+│   ├── guarantee threshold
+│   ├── non-marketing premium
+│   ├── producer co-responsibility
+│   ├── storage premium
+│   └── tax on oils and fats
+├── religion
+│   ├── Buddhism
+│   ├── Christianity
+│   │   └── Anglicanism
+│   ├── Hinduism
+│   ├── Islam
+│   ├── Judaism
+│   ├── atheism
+│   ├── church
+│   ├── clergy
+│   ├── interreligious dialogue
+│   ├── mythology
+│   ├── new religion
+│   ├── primitive religion
+│   ├── religious fundamentalism
+│   ├── religious institution
+│   ├── religious sect
+│   ├── religious symbol
+│   ├── sacred text
+│   └── theology
+├── remuneration of work
+│   ├── allowances and expenses
+│   ├── bonus payment
+│   ├── fringe benefit
+│   ├── income in addition to normal pay
+│   ├── pay
+│   │   └── deduction at source
+│   └── supplementary income
+├── research
+│   ├── animal experimentation
+│   ├── applied research
+│   ├── basic research
+│   ├── business cluster
+│   ├── company research
+│   ├── experiment on humans
+│   ├── field research
+│   ├── industrial research
+│   ├── innovation
+│   ├── invention
+│   ├── military research
+│   ├── organisation of research
+│   ├── research method
+│   │   ├── analysis of causes
+│   │   ├── evaluation method
+│   │   ├── quantitative analysis
+│   │   └── simulation
+│   ├── research results
+│   ├── scientific research
+│   └── university research
+├── research policy
+│   ├── COST
+│   ├── EU research policy
+│   │   └── Scientific and Technical Research Committee
+│   ├── Eureka
+│   ├── industry-research relations
+│   ├── research and development
+│   ├── research body
+│   │   └── think tank
+│   ├── research budget
+│   ├── research programme
+│   ├── research project
+│   ├── research staff
+│   ├── scientific profession
+│   └── scientific progress
+├── restriction on competition
+│   ├── advertising malpractice
+│   ├── comparative advertising
+│   ├── dominant position
+│   ├── dumping
+│   ├── monopoly
+│   │   ├── State monopoly
+│   │   ├── import monopoly
+│   │   └── monopsony
+│   ├── non-competition clause
+│   ├── oligopoly
+│   ├── oligopsony
+│   ├── price agreement
+│   ├── refusal to bid
+│   ├── refusal to sell
+│   └── voluntary restraint
+├── restrictive trade practice
+│   ├── exclusive purchasing agreement
+│   ├── horizontal agreement
+│   │   ├── cartel
+│   │   └── market-sharing agreement
+│   ├── international cartel
+│   ├── trust
+│   ├── unlawful agreement
+│   └── vertical agreement
+│       └── selective distribution agreement
+├── rights of the individual
+│   ├── children's rights
+│   ├── cruel and degrading treatment
+│   ├── freedom of movement
+│   ├── freedom of opinion
+│   ├── freedom of religious beliefs
+│   ├── freedom of self-determination
+│   │   └── euthanasia
+│   ├── gender reassignment
+│   ├── protection of privacy
+│   ├── right to physical integrity
+│   ├── sexual freedom
+│   ├── slavery
+│   └── women's rights
+├── root crop
+│   ├── cassava
+│   ├── fodder beet
+│   ├── potato
+│   ├── sugar beet
+│   └── yam
+├── ruling
+│   ├── appeal
+│   ├── enforcement of ruling
+│   ├── legal expenses
+│   └── miscarriage of justice
+├── school life
+│   ├── education grant
+│   ├── educational administration
+│   ├── school attendance
+│   ├── school canteen
+│   ├── school environment
+│   ├── school fees
+│   ├── school inspection
+│   ├── school transport
+│   ├── school-industry relations
+│   ├── school-working life relations
+│   ├── student mobility
+│   └── student residence
+├── schoolwork
+│   ├── adjustment to school
+│   ├── assessment
+│   ├── backwardness at school
+│   ├── diploma
+│   ├── examination
+│   │   └── admission to examinations
+│   ├── learning
+│   ├── re-integration into school
+│   └── school results
+├── size of business
+│   ├── large business
+│   └── small and medium-sized enterprises
+│       └── small business
+├── small state
+├── social analysis
+│   ├── opinion poll
+│   ├── social impact
+│   ├── social indicator
+│   ├── social statistics
+│   └── social survey
+├── social life
+│   ├── bio-ethics
+│   ├── collective activities
+│   ├── cultural prize
+│   ├── death
+│   ├── honour
+│   ├── human relations
+│   ├── personal development
+│   ├── public morality
+│   ├── secret society
+│   ├── social adjustment
+│   ├── social behaviour
+│   ├── social change
+│   ├── social conflict
+│   │   └── class struggle
+│   ├── social development
+│   ├── social participation
+│   └── twinning
+├── social policy
+│   ├── European social policy
+│   ├── child care
+│   ├── child protection
+│   ├── disabled person
+│   │   └── independence of the disabled
+│   ├── fight against crime
+│   ├── position of women
+│   ├── prevention of delinquency
+│   ├── social budget
+│   ├── social cost
+│   ├── social integration
+│   ├── social legislation
+│   ├── social pact
+│   ├── social rehabilitation
+│   ├── social worker
+│   ├── subsistence level income
+│   └── youth policy
+├── social problem
+│   ├── accident in the home
+│   ├── alcoholism
+│   ├── crime
+│   ├── delinquency
+│   │   └── vandalism
+│   ├── dependence of elderly persons
+│   ├── disaffection of young people
+│   ├── drug addiction
+│   ├── extremism
+│   ├── gambling addiction
+│   ├── homelessness
+│   ├── illiteracy
+│   ├── marginalisation
+│   ├── performance drugs
+│   ├── pornography
+│   │   └── child pornography
+│   ├── prescription drug abuse
+│   ├── prostitution
+│   ├── sexual mutilation
+│   ├── smoking
+│   ├── street children
+│   ├── suicide
+│   └── violence
+├── social rights
+│   ├── academic freedom
+│   ├── equal treatment
+│   ├── equality before the law
+│   ├── gender equality
+│   │   └── gender mainstreaming
+│   ├── right to culture
+│   ├── right to education
+│   ├── right to health
+│   ├── right to housing
+│   ├── right to information
+│   ├── right to justice
+│   └── trade union freedom
+├── social sciences
+│   ├── administrative science
+│   ├── archaeology
+│   ├── economics
+│   ├── history
+│   │   ├── ancient history
+│   │   └── prehistory
+│   ├── linguistics
+│   │   └── language
+│   │       └── regional language
+│   ├── philosophy
+│   │   └── ethics
+│   ├── political science
+│   │   └── geopolitics
+│   ├── social and cultural anthropology
+│   └── sociology
+├── social security
+│   ├── social security legislation
+│   ├── social-security benefit
+│   │   ├── death grant
+│   │   ├── non-contributory benefit
+│   │   ├── parental allowance
+│   │   └── pension scheme
+│   │       └── transfer of pension rights
+│   ├── social-security contribution
+│   ├── social-security harmonisation
+│   └── universal health coverage
+├── social situation
+│   ├── social norm
+│   └── socioeconomic conditions
+│       ├── living conditions
+│       ├── quality of life
+│       └── social well-being
+├── social structure
+│   ├── intellectual
+│   ├── social class
+│   │   └── upper class
+│   ├── social inequality
+│   ├── social mobility
+│   ├── social status
+│   └── socially disadvantaged class
+├── sociocultural group
+│   ├── ethnic group
+│   │   └── Roma
+│   ├── linguistic group
+│   └── religious group
+│       ├── Christian
+│       └── Muslim
+├── socioprofessional category
+│   ├── blue-collar worker
+│   │   └── apprentice
+│   ├── executive
+│   ├── supervisor
+│   └── white-collar worker
+├── soft energy
+│   ├── bioenergy
+│   ├── biogas
+│   ├── geothermal energy
+│   ├── hydraulic energy
+│   ├── renewable energy
+│   ├── solar energy
+│   │   ├── photovoltaic cell
+│   │   ├── solar architecture
+│   │   ├── solar collector
+│   │   └── solar energy end-use applications
+│   ├── thermal energy
+│   ├── tidal energy
+│   ├── wave energy
+│   └── wind energy
+├── source of law
+│   ├── case-law
+│   ├── common law
+│   ├── constitution
+│   │   ├── constitutional revision
+│   │   └── control of constitutionality
+│   ├── customary law
+│   ├── general legal principle
+│   ├── legal code
+│   │   ├── civil code
+│   │   ├── commercial code
+│   │   └── penal code
+│   ├── legal doctrine
+│   ├── legislation
+│   │   └── regulation
+│   ├── self-regulation
+│   └── simplification of legislation
+├── space policy
+│   └── space research
+├── space science
+│   ├── astronautics
+│   └── astronomy
+├── space transport
+│   ├── launch facility
+│   ├── space navigation
+│   ├── space technology
+│   └── space vehicle
+│       └── launch vehicle
+├── special chemicals
+│   ├── adhesive
+│   ├── adjuvant
+│   ├── aerosol
+│   ├── cosmetics industry
+│   │   └── cosmetic product
+│   ├── explosive
+│   │   └── fireworks
+│   ├── insulator
+│   ├── lubricants
+│   ├── plasticiser
+│   ├── polishing and scouring preparations
+│   └── solvent
+├── statistics
+│   ├── EU statistics
+│   ├── census
+│   ├── economic statistics
+│   ├── geographical distribution
+│   ├── international statistics
+│   ├── national statistics
+│   ├── nomenclature
+│   ├── official statistics
+│   ├── ratio
+│   ├── regional statistics
+│   ├── sample survey
+│   └── statistical method
+├── storage
+│   ├── stock
+│   │   ├── private stock
+│   │   └── public stock
+│   └── storage capacity
+├── sub-Saharan Africa
+│   ├── Central Africa
+│   │   ├── Angola
+│   │   ├── Central African Republic
+│   │   ├── Chad
+│   │   ├── Congo
+│   │   ├── Democratic Republic of the Congo
+│   │   ├── Gabon
+│   │   └── São Tomé and Príncipe
+│   ├── East Africa
+│   │   ├── Madagascar
+│   │   ├── Malawi
+│   │   ├── Mauritius
+│   │   ├── Seychelles
+│   │   ├── South Sudan
+│   │   ├── Tanzania
+│   │   ├── Zambia
+│   │   └── Zimbabwe
+│   ├── Sahel
+│   ├── Southern Africa
+│   │   ├── Namibia
+│   │   └── South Africa
+│   └── West Africa
+│       ├── Liberia
+│       ├── Mali
+│       └── Togo
+├── sugar
+│   ├── beet sugar
+│   ├── cane sugar
+│   ├── glucose
+│   ├── isoglucose
+│   ├── lactose
+│   ├── raw sugar
+│   ├── sucrose
+│   └── white sugar
+├── supply
+│   ├── security of supply
+│   ├── self-supply
+│   ├── shortage
+│   └── supply balance sheet
+├── supply and demand
+├── tariff policy
+│   ├── abolition of customs duties
+│   ├── customs drawback
+│   ├── customs harmonisation
+│   ├── customs union
+│   ├── exemption from customs duties
+│   ├── free-trade area
+│   ├── restoration of customs duties
+│   ├── suspension of customs duties
+│   ├── tariff agreement
+│   ├── tariff exemption
+│   ├── tariff negotiations
+│   │   ├── Kennedy Round
+│   │   ├── Tokyo Round
+│   │   └── Trade Expansion Act
+│   ├── tariff preference
+│   ├── tariff quota
+│   └── tariff reduction
+├── tax
+│   ├── direct tax
+│   ├── flat-rate tax
+│   ├── indirect tax
+│   ├── local tax
+│   ├── national tax
+│   ├── non-personal tax
+│   ├── quasi-fiscal charge
+│   └── special tax
+├── tax on capital
+│   ├── capital transfer tax
+│   ├── registration tax
+│   └── wealth tax
+├── tax on consumption
+│   ├── VAT
+│   │   └── VAT rate
+│   ├── excise duty
+│   ├── export tax
+│   ├── fuel tax
+│   ├── import tax
+│   ├── stamp duty
+│   └── vehicle tax
+├── tax on income
+│   ├── business tax
+│   ├── capital gains tax
+│   ├── corporation tax
+│   ├── personal income tax
+│   ├── property tax
+│   ├── tax on employment income
+│   ├── tax on investment income
+│   └── tax on profits of self-employment
+├── tax system
+│   ├── tax authorities
+│   ├── tax avoidance
+│   ├── tax collection
+│   ├── tax return
+│   ├── taxable income
+│   └── taxpayer
+├── teaching
+│   ├── compulsory education
+│   ├── denominational education
+│   ├── free education
+│   ├── private education
+│   ├── public education
+│   └── secular education
+├── teaching materials
+│   ├── open educational resources
+│   ├── school textbook
+│   └── teaching software
+├── teaching method
+│   ├── distance learning
+│   ├── home education
+│   ├── new educational methods
+│   ├── non-formal education
+│   └── programmed learning
+├── technical profession
+│   └── engineer
+├── technical regulations
+│   ├── standardisation
+│   │   ├── EC conformity marking
+│   │   ├── European standard
+│   │   ├── approval
+│   │   ├── harmonisation of standards
+│   │   └── international standard
+│   ├── technical rule
+│   ├── technical specification
+│   └── weights and measures
+├── technology
+│   ├── benchmarking
+│   ├── choice of technology
+│   │   ├── clean technology
+│   │   └── intermediate technology
+│   ├── digital technology
+│   ├── dual-use technology
+│   ├── know-how
+│   ├── nanotechnology
+│   ├── new technology
+│   ├── obsolete technology
+│   ├── recycling technology
+│   ├── technological change
+│   ├── technology assessment
+│   │   └── prospective technological studies
+│   └── technology transfer
+│       └── diffusion of innovations
+├── termination of employment
+│   ├── dismissal
+│   │   ├── outplacement
+│   │   ├── redundancy
+│   │   ├── severance pay
+│   │   └── unfair dismissal
+│   ├── early retirement
+│   ├── job cuts
+│   ├── retired person
+│   └── retirement conditions
+├── territories of the former Yugoslavia
+├── textile industry
+│   ├── carpet
+│   ├── clothing industry
+│   │   └── clothing
+│   ├── haberdashery
+│   ├── knitted and crocheted goods
+│   ├── non-woven fabric
+│   ├── textile machine
+│   └── textile product
+│       ├── man-made fibre
+│       └── natural fibre
+├── textile plant
+│   ├── cotton
+│   ├── flax
+│   ├── hemp
+│   ├── jute
+│   ├── kapok
+│   └── sisal
+├── thermal equipment
+│   ├── boiler
+│   ├── cold store
+│   ├── furnace
+│   ├── gas appliance
+│   └── heat pump
+├── town planning
+│   ├── building plot
+│   ├── community facilities
+│   │   ├── bus station
+│   │   └── parking area
+│   ├── green area
+│   ├── industrial plot
+│   ├── price of land
+│   ├── real estate market
+│   ├── rural community
+│   ├── town-planning profession
+│   ├── town-planning regulations
+│   ├── town-planning scheme
+│   ├── urban community
+│   ├── urban construction
+│   ├── urban economy
+│   ├── urban infrastructure
+│   │   └── water supply
+│   ├── urban problem
+│   ├── urban renewal
+│   └── urbanisation
+├── trade policy
+│   ├── State trading
+│   ├── domestic trade
+│   ├── fair trade
+│   ├── foreign trade
+│   ├── generalised preferences
+│   ├── intervention agency
+│   ├── liberalisation of the market
+│   ├── market access
+│   ├── market enlargement
+│   ├── market intervention
+│   │   ├── market planning
+│   │   ├── market protection
+│   │   └── market support
+│   │       ├── intervention stock
+│   │       └── withdrawal from the market
+│   ├── market organisation
+│   ├── market stabilisation
+│   ├── regulation of transactions
+│   ├── trade promotion
+│   └── trade regulations
+│       ├── illicit trade
+│       └── trading hours
+├── trade relations
+│   ├── commodity agreement
+│   │   ├── buffer stock
+│   │   └── common fund
+│   ├── free-trade agreement
+│   ├── multifibre agreement
+│   ├── protocol on sugar
+│   ├── sectoral agreement
+│   ├── trade agreement
+│   │   ├── GATS
+│   │   ├── TRIMs
+│   │   └── TRIPS
+│   ├── trade dispute
+│   └── voluntary restraint agreement
+├── trade restriction
+│   ├── export restriction
+│   ├── import restriction
+│   ├── non-tariff barrier
+│   │   └── measure having equivalent effect
+│   └── tariff barrier
+├── trading operation
+│   ├── agricultural trade
+│   ├── barter
+│   ├── countertrade
+│   ├── export
+│   │   ├── export (EU)
+│   │   └── re-export
+│   ├── import
+│   │   └── re-import
+│   ├── trade by product
+│   ├── trade volume
+│   └── value of trade
+├── traffic regulations
+│   ├── air traffic control
+│   ├── driving instruction
+│   ├── driving licence
+│   ├── highway code
+│   ├── navigational code
+│   ├── ship's passport
+│   ├── speed control
+│   ├── traffic control
+│   └── traffic signs
+├── transport policy
+│   ├── Community trunk route
+│   ├── common transport policy
+│   ├── cross-channel connection
+│   ├── sustainable mobility
+│   ├── transport economics
+│   ├── transport infrastructure
+│   │   └── engineering structure
+│   ├── transport law
+│   ├── transport market
+│   ├── transport planning
+│   ├── transport safety
+│   │   ├── road safety
+│   │   └── transport accident
+│   ├── transport statistics
+│   └── transport under customs control
+├── transport price
+│   ├── charges for use of infrastructure
+│   │   ├── axle tax
+│   │   └── right to stopover
+│   ├── tariff zone
+│   └── transportation tariff
+│       ├── air freight rate
+│       ├── approval of tariffs
+│       ├── freight rate
+│       │   └── free-on-board price
+│       ├── international tariff
+│       ├── passenger tariff
+│       ├── publication of tariffs
+│       ├── railway tariff
+│       ├── road transport tariff
+│       └── support tariff
+├── transport regulations
+│   ├── driving period
+│   ├── roadworthiness tests
+│   ├── ticket
+│   ├── transport authorisation
+│   ├── transport document
+│   ├── transport licence
+│   ├── transport quota
+│   ├── vehicle documents
+│   └── vehicle registration
+├── trends of opinion
+│   ├── anti-racist movement
+│   ├── antiglobalisation movement
+│   ├── associative movement
+│   ├── autonomous movement
+│   ├── civil disobedience
+│   │   └── hunger strike
+│   ├── civil society
+│   ├── dissidence
+│   ├── ecology movement
+│   ├── farmers' movement
+│   ├── human rights movement
+│   ├── militarism
+│   ├── non-violence
+│   ├── opposition
+│   ├── pacifism
+│   ├── patriotic movement
+│   ├── silent majority
+│   ├── social movement
+│   ├── women's movement
+│   ├── workers' movement
+│   └── youth movement
+├── tropical plant
+│   ├── cocoa
+│   ├── coffee
+│   └── tea
+├── type of business
+│   ├── European undertaking
+│   ├── craft business
+│   ├── family business
+│   ├── foreign enterprise
+│   ├── joint venture
+│   ├── multinational enterprise
+│   ├── private sector
+│   ├── public sector
+│   ├── reintegration enterprise
+│   ├── sole proprietorship
+│   └── transnational corporation
+├── type of tenure
+│   ├── contract farming
+│   ├── mixed tenure
+│   ├── owner farming
+│   ├── share farming
+│   └── tenant farming
+│       └── farm lease
+├── unemployment
+│   ├── cyclical unemployment
+│   ├── female unemployment
+│   ├── hidden unemployment
+│   ├── long-term unemployment
+│   ├── migrant unemployment
+│   ├── seasonal unemployment
+│   ├── short-time working
+│   ├── structural unemployment
+│   ├── temporary layoff
+│   ├── unemployment due to technical progress
+│   └── youth unemployment
+├── vacuum industry
+├── vegetable
+│   ├── bulb vegetable
+│   ├── fresh vegetable
+│   ├── fruit vegetable
+│   ├── leaf vegetable
+│   ├── leguminous vegetable
+│   ├── perennial vegetable
+│   └── root vegetable
+├── vocational education
+│   ├── agricultural education
+│   ├── commercial education
+│   ├── management training
+│   ├── medical training
+│   ├── paramedical training
+│   ├── teacher training
+│   └── technical education
+├── vocational training
+│   ├── apprenticeship
+│   ├── communication skills
+│   ├── conduct of meetings
+│   ├── continuing vocational training
+│   │   └── learning technique
+│   ├── in-service training
+│   ├── language skills
+│   ├── negotiation skills
+│   ├── traineeship
+│   ├── training leave
+│   ├── updating of skills
+│   └── writing skills
+├── vote
+│   ├── abstentionism
+│   ├── advance voting
+│   ├── ballot paper
+│   ├── counting of the votes
+│   ├── election monitoring
+│   │   └── objections to an election result
+│   │       └── electoral fraud
+│   ├── open ballot
+│   ├── polling station
+│   ├── postal vote
+│   ├── proxy vote
+│   ├── result of the vote
+│   ├── secret ballot
+│   ├── turnout of voters
+│   └── voting intentions
+├── voting method
+│   ├── list voting system
+│   │   ├── cross voting
+│   │   ├── fixed party list
+│   │   └── preferential voting
+│   ├── majority voting system
+│   │   ├── double-ballot voting system
+│   │   │   └── second ballot
+│   │   └── single-ballot system
+│   ├── proportional representation
+│   └── uninominal voting system
+├── war victim
+│   ├── civilian victim
+│   ├── deportee
+│   ├── ex-serviceman
+│   └── prisoner of war
+├── waste
+│   ├── agricultural waste
+│   ├── chemical waste
+│   ├── domestic waste
+│   ├── electronic waste
+│   ├── export of waste
+│   ├── food waste
+│   ├── hazardous waste
+│   ├── hospital waste
+│   ├── industrial waste
+│   ├── metal waste
+│   ├── non-recoverable waste
+│   ├── plastic waste
+│   ├── radioactive waste
+│   ├── sewage sludge
+│   ├── unauthorised dumping
+│   ├── used oil
+│   └── wastewater
+├── waste management
+│   ├── storage of waste
+│   ├── waste disposal
+│   │   └── waste incineration
+│   └── waste recycling
+├── water policy
+│   └── water management
+│       ├── water consumption
+│       └── water treatment
+├── welfare
+│   ├── aid to disadvantaged groups
+│   ├── care for the elderly
+│   ├── care of the disabled
+│   ├── home help
+│   ├── mutual assistance scheme
+│   ├── social assistance
+│   ├── social facilities
+│   ├── social services
+│   └── social work
+├── wildlife
+│   ├── animal life
+│   ├── marine life
+│   ├── plant life
+│   └── protected species
+├── wood industry
+│   ├── furniture industry
+│   ├── joinery
+│   ├── pulp and paper industry
+│   │   ├── paper
+│   │   └── paperboard
+│   ├── sawmill
+│   └── wood product
+│       ├── cellulose
+│       ├── charcoal
+│       └── cork
+├── work
+├── working conditions
+│   ├── ergonomics
+│   │   ├── humanisation of work
+│   │   ├── occupational physiology
+│   │   └── occupational psychology
+│   │       ├── absenteeism
+│   │       ├── job satisfaction
+│   │       └── mental stress
+│   ├── harassment at work
+│   ├── occupational safety
+│   │   └── occupational medicine
+│   ├── work-life balance
+│   ├── working environment
+│   └── workplace
+├── working population engaged in agriculture
+│   ├── agricultural labour force
+│   ├── farmer
+│   ├── head of agricultural holding
+│   ├── woman farmer
+│   └── young farmer
+├── world
+└── world organisation
+    ├── Anzus
+    ├── Arctic Council
+    ├── Bank for International Settlements
+    ├── Colombo Plan
+    ├── Comecon
+    ├── Commonwealth
+    ├── Commonwealth of Independent States
+    ├── G20
+    ├── Group of 77
+    ├── Group of Ten
+    ├── Group of Twenty-Four
+    ├── International Anti-Corruption Academy
+    ├── International Atomic Energy Agency
+    ├── International Criminal Court
+    ├── International Organisation for Migration
+    ├── International Renewable Energy Agency
+    ├── Interparliamentary Union
+    ├── Interpol
+    ├── NATO
+    │   ├── Euro-Atlantic Partnership Council
+    │   └── Eurogroup (NATO)
+    ├── North-West Atlantic Fisheries Organisation
+    ├── OECD
+    ├── OPEC
+    ├── OSCE
+    ├── Organisation for the Prohibition of Chemical Weapons
+    ├── Wassenaar arrangement
+    ├── World Customs Organisation
+    ├── World Organisation for Animal Health
+    ├── World Trade Organisation
+    │   └── Dispute Settlement Body
+    └── group of leading industrialised countries
