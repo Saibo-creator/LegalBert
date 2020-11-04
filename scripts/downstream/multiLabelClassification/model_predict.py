@@ -14,6 +14,7 @@ from tqdm import tqdm, trange
 from ast import literal_eval
 from transformers import AutoTokenizer, AutoModel
 import pickle
+import json
 
 #clf
 from transformers import  RobertaForSequenceClassification
@@ -27,15 +28,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     #首先是mandatory parameters
     parser.add_argument("model_name", help="legalBert vs roberta",choices=['legalBert','roberta'])# 必须以 python script.py mandatory_para_value....(如果没有这个参数会报错)
-
-    # #然后是optional parameters，以--或者-开头
-    # parser.add_argument('-o', '--output', type=argparse.FileType('w'), default=sys.stdout,
-    #                     help='Output file (default stdout).')
-    # parser.add_argument('-n', '--num-seeds', default=10, type=int, help='Number of seeds to generate.')
-    # parser.add_argument('-w', '--ngram-range', nargs=2, type=int, default=(3, 3), help='Number of words per seed.')
-    # parser.add_argument('-p', '--min-proba', default=0.95, help='Min. GSW probability for a seed to be accepted.')
-    # parser.add_argument('--quiet', action='store_true', help='Be quiet')
-
 
     #解析参数
     args = parser.parse_args()
@@ -69,6 +61,14 @@ if __name__ == '__main__':
         model = RobertaForSequenceClassification.from_pretrained("/mnt/localdata/geng/model/legalRoberta/", num_labels=NUM_LABELS)
     if model_name=="legalBert":
         model = BertForSequenceClassification.from_pretrained("nlpaueb/legal-bert-base-uncased", num_labels=NUM_LABELS)
+    if model_name=="bert_uncased":
+        model = BertForSequenceClassification.from_pretrained("bert-base-uncased",num_labels=NUM_LABELS)
+    if model_name=="bert_cased":
+        model = BertForSequenceClassification.from_pretrained("bert-base-cased",num_labels=NUM_LABELS)
+    if model_name=="bert_large":
+        model = BertForSequenceClassification.from_pretrained("bert-large-cased",num_labels=NUM_LABELS)
+    if model_name=="gpt2":
+        model = GPT2ForSequenceClassification.from_pretrained("gpt2",num_labels=NUM_LABELS)
 
     model.load_state_dict(torch.load( '/mnt/localdata/geng/model/lmtc_models/downstream/multiLabelClassification/{0}/clf_{0}'.format(model_name)))
     parallel_model = torch.nn.DataParallel(model) # Encapsulate the model
