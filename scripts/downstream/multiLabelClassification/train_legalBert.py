@@ -12,13 +12,12 @@ import pickle
 from transformers import *
 from tqdm import tqdm, trange
 from ast import literal_eval
-from transformers import AutoTokenizer, AutoModel
+from transformers import AutoTokenizer, AutoModel,AutoModelForSequenceClassification
 import os
 #clf
-from transformers import  RobertaForSequenceClassification
-from transformers import  BertForSequenceClassification
 from transformers import  GPT2ForSequenceClassification
 import json
+import pdb
 
 
 def create_if_not_exists(folder_fn):
@@ -26,9 +25,10 @@ def create_if_not_exists(folder_fn):
         os.mkdir(folder_fn)
 
 
-def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn):
+def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn,tokenizer):
     # df = pd.read_csv('/mnt/localdata/geng/data/downstream/multiLabelClassification/train.csv',index_col=0)
-    df = pd.read_csv(src_fn,index_col=0)
+    print("###################### start create train val dataloaders ########################")
+    df = pd.read_csv(src_fn)
 
     cols = df.columns
     label_cols = list(cols[2:])
@@ -38,15 +38,14 @@ def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn):
     df = df.sample(frac=1).reset_index(drop=True) #shuffle rows
     df['one_hot_labels'] = list(df[label_cols].values)
     labels = list(df.one_hot_labels.values)
-    comments = list(df["header+recital"].values)
-    encodings = tokenizer.batch_encode_plus(comments,max_length=max_length,truncation=True, pad_to_max_length=True) 
+    comments = list(df["text"].values)
+    encodings = tokenizer(comments,max_length=max_length,truncation=True, padding='max_length',return_token_type_ids=True) 
 
     input_ids = encodings['input_ids'] # tokenized and encoded sentences
     token_type_ids = encodings['token_type_ids'] # token type ids
-    token_type_ids=[tokenizer.create_token_type_ids_from_sequences(input_id) for input_id in input_ids]
+    # token_type_ids=[tokenizer.create_token_type_ids_from_sequences(input_id) for input_id in input_ids]
     # TODO, not sure which to use
     attention_masks = encodings['attention_mask'] # attention masks
-
     # Use train_test_split to split our data into train and validation sets
 
     train_inputs, validation_inputs, train_labels, validation_labels, train_token_types, validation_token_types, train_masks, validation_masks = train_test_split(input_ids, labels, token_type_ids,attention_masks,
@@ -79,12 +78,12 @@ def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn):
 
     torch.save(validation_dataloader,val_loader_fn)
     torch.save(train_dataloader,train_loader_fn)
-
+    print("###################### finished to create train val dataloaders ########################")
     return validation_dataloader,train_dataloader
 
 
 
-def create_test_loader(src_fn, test_loader_fn):
+def create_test_loader(src_fn, test_loader_fn,tokenizer):
     df = pd.read_csv(src_fn,index_col=0)
 
     cols = df.columns
@@ -95,12 +94,12 @@ def create_test_loader(src_fn, test_loader_fn):
     df = df.sample(frac=1).reset_index(drop=True) #shuffle rows
     df['one_hot_labels'] = list(df[label_cols].values)
     labels = list(df.one_hot_labels.values)
-    comments = list(df["header+recital"].values)
-    encodings = tokenizer.batch_encode_plus(comments,max_length=max_length,truncation=True, pad_to_max_length=True) 
+    comments = list(df["text"].values)
+    encodings = tokenizer(comments,max_length=max_length,truncation=True, padding='max_length',return_token_type_ids=True) 
 
     input_ids = encodings['input_ids'] # tokenized and encoded sentences
     token_type_ids = encodings['token_type_ids'] # token type ids
-    token_type_ids=[tokenizer.create_token_type_ids_from_sequences(input_id) for input_id in input_ids]
+    # token_type_ids=[tokenizer.create_token_type_ids_from_sequences(input_id) for input_id in input_ids]
     # TODO, not sure which to use
     attention_masks = encodings['attention_mask'] # attention masks
 
@@ -130,20 +129,44 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     # given a list of choice 
-    parser.add_argument("model_name", help="legalBert vs roberta",choices=["legalBert","legalRoberta","Bert","Roberta"])
+    parser.add_argument("--task",default="multiLabelClassification",choices=["multiLabelClassification","twitter"])
+    parser.add_argument("--model_name", help="legalBert vs roberta",choices=["legalBert","legalRoberta","bert_uncased","bert_cased","bert_large","gpt2","roberta"])
+    parser.add_argument("--build_new_dataloaders",action='store_true')
+    parser.add_argument("-bs","--batch_size",type=int,default=None)
+    parser.add_argument("--cpu",action='store_true')
 
 
-    with open("config.json", "r") as read_file:
-        config = json.load(read_file)
         
 
     #解析参数
     args = parser.parse_args()
 
+    task=args.task
+    if task=="twitter":
+        with open("config_twitter.json", "r") as read_file:
+            config = json.load(read_file)
+    elif task=="multiLabelClassification":
+        with open("config.json", "r") as read_file:
+            config = json.load(read_file)
+
+
+
+    cpu=args.cpu
+
+    #cuda
+    if cpu:
+        device = torch.device("cpu")
+        print("using multi cpu mode")
+    else:
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        n_gpu = torch.cuda.device_count()
+        print("torch.cuda.is_available: ",torch.cuda.is_available())
+        print("torch.cuda.device_count:",n_gpu)
 
 
     # set the expeiment model name
     model_name=args.model_name
+    build_new_dataloaders=args.build_new_dataloaders
 
     NUM_LABELS=config["task"]["NUM_LABELS"]
 
@@ -154,81 +177,63 @@ if __name__ == '__main__':
         max_length=config["task"]["max_length_bert"]
 
     batch_size=config["task"]['batch_size']
+    if args.batch_size:
+        batch_size=args.batch_size
 
-    #cuda
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    n_gpu = torch.cuda.device_count()
+
+
+
 
     # import pretrained bert tokenizer
-    if model_name=="roberta":
-        tokenizer = AutoTokenizer.from_pretrained("/mnt/localdata/geng/model/legalRoberta/") 
-    if model_name=="legalBert":
-        tokenizer = AutoTokenizer.from_pretrained("nlpaueb/legal-bert-base-uncased",do_lower_case=True )
-    if model_name=="bert_uncased":
-        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased", do_lower_case=True)
-    if model_name=="bert_cased":
-        tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
-    if model_name=="bert_large":
-        tokenizer = AutoTokenizer.from_pretrained("bert-large-cased")
-    if model_name=="gpt2":
-        tokenizer = AutoTokenizer.from_pretrained("gpt2")
+    tokenizer = AutoTokenizer.from_pretrained(config['model'][model_name],use_fast=True)
 
-    print("torch.cuda.is_available: ",torch.cuda.is_available())
+    # pdb.set_trace()
+    tokenizer.pad_token = "[PAD]"
 
 
 
-    model_folder_fn='/mnt/localdata/geng/model/lmtc_models/downstream/multiLabelClassification/{}'.format(model_name)
-    data_folder_fn='/mnt/localdata/geng/data/downstream/multiLabelClassification/{}'.format(model_name)
+    model_folder_fn='/mnt/localdata/geng/model/downstream/{task}/{model_name}'.format(model_name=model_name,task=task)
+    data_folder_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}'.format(model_name=model_name,task=task)
     create_if_not_exists(data_folder_fn)
     create_if_not_exists(model_folder_fn)
 
     # Load Model & Set Params
 
-    val_loader_fn='/mnt/localdata/geng/data/downstream/multiLabelClassification/{}/validation_data_loader'.format(model_name)
-    train_loader_fn='/mnt/localdata/geng/data/downstream/multiLabelClassification/{}/train_data_loader'.format(model_name)
-    test_loader_fn='/mnt/localdata/geng/data/downstream/multiLabelClassification/{}/test_data_loader'.format(model_name)
+    val_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/validation_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
+    train_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/train_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
+    test_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/test_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
     
-    if os.path.exists(val_loader_fn):
+    if os.path.exists(val_loader_fn) and (not build_new_dataloaders):
+        print("train val dataloaders alreay exist, load them now.")
         validation_dataloader=torch.load(val_loader_fn)
         train_dataloader=torch.load(train_loader_fn)
     else:
-        validation_dataloader,train_dataloader=create_train_val_loaders(config['dataset']['train'],val_loader_fn, train_loader_fn)
+        validation_dataloader,train_dataloader=create_train_val_loaders(config['dataset']['train'],val_loader_fn, train_loader_fn,tokenizer)
 
-    if os.path.exists(test_loader_fn):
+    if os.path.exists(test_loader_fn) and (not build_new_dataloaders):
         pass
     else:
-        create_test_loader(config['dataset']['test'],test_loader_fn)
+        create_test_loader(config['dataset']['test'],test_loader_fn,tokenizer)
 
 
 
-    # Load model, the pretrained model will include a single linear classification layer on top for classification. 
-    if model_name=="roberta":
-        model = RobertaForSequenceClassification.from_pretrained("/mnt/localdata/geng/model/legalRoberta/", num_labels=NUM_LABELS)
-    if model_name=="legalBert":
-        model = BertForSequenceClassification.from_pretrained("nlpaueb/legal-bert-base-uncased", num_labels=NUM_LABELS)
-
-
-
-
-    # Load model, the pretrained model will include a single linear classification layer on top for classification. 
-    if model_name=="roberta":
-        model = RobertaForSequenceClassification.from_pretrained("/mnt/localdata/geng/model/legalRoberta/", num_labels=NUM_LABELS)
-    if model_name=="legalBert":
-        model = BertForSequenceClassification.from_pretrained("nlpaueb/legal-bert-base-uncased", num_labels=NUM_LABELS)
-    if model_name=="bert_uncased":
-        model = BertForSequenceClassification.from_pretrained("bert-base-uncased",num_labels=NUM_LABELS)
-    if model_name=="bert_cased":
-        model = BertForSequenceClassification.from_pretrained("bert-base-cased",num_labels=NUM_LABELS)
-    if model_name=="bert_large":
-        model = BertForSequenceClassification.from_pretrained("bert-large-cased",num_labels=NUM_LABELS)
+    #  import pretrained model 
     if model_name=="gpt2":
-        model = GPT2ForSequenceClassification.from_pretrained("gpt2",num_labels=NUM_LABELS)
-
-
-
-        
-    parallel_model = torch.nn.DataParallel(model) # Encapsulate the model
-    parallel_model.cuda()
+        model=GPT2ForSequenceClassification.from_pretrained("gpt2", num_labels=NUM_LABELS)
+    else:
+        model=AutoModelForSequenceClassification.from_pretrained(config['model'][model_name], num_labels=NUM_LABELS)
+    
+    if cpu:
+        # Distributor = torch.nn.parallel.DistributedDataParallelCPU
+        # import torch.distributed as dist
+        # rank=1
+        # world_size=12
+        # dist.init_process_group("gloo", world_size=world_size,rank=-1, store= None)
+        # parallel_model = Distributor(model)
+        parallel_model=model
+    else:
+        parallel_model = torch.nn.DataParallel(model) # Encapsulate the model
+        parallel_model.cuda()
 
     # setting custom optimization parameters. You may implement a scheduler here as well.
     param_optimizer = list(model.named_parameters())
@@ -245,6 +250,7 @@ if __name__ == '__main__':
 
 
     #Train
+    print("start the training process ") 
 
     # Store our loss and accuracy for plotting
     train_loss_set = []
@@ -281,7 +287,7 @@ if __name__ == '__main__':
             # logits = outputs[1]
 
             # Forward pass for multilabel classification
-            outputs = parallel_model(b_input_ids, token_type_ids=None, attention_mask=b_input_mask)
+            outputs = parallel_model(b_input_ids, token_type_ids=b_token_types, attention_mask=b_input_mask)
             logits = outputs[0]
             loss_func = BCEWithLogitsLoss() 
             loss = loss_func(logits.view(-1,NUM_LABELS),b_labels.type_as(logits).view(-1,NUM_LABELS)) #convert labels to float for calculation
@@ -318,7 +324,7 @@ if __name__ == '__main__':
             b_input_ids, b_input_mask, b_labels, b_token_types = batch
             with torch.no_grad():
                 # Forward pass
-                outs = parallel_model(b_input_ids, token_type_ids=None, attention_mask=b_input_mask)
+                outs = parallel_model(b_input_ids, token_type_ids=b_token_types, attention_mask=b_input_mask)
                 b_logit_pred = outs[0]
                 pred_label = torch.sigmoid(b_logit_pred)
 
@@ -346,6 +352,6 @@ if __name__ == '__main__':
         print('Flat Validation Accuracy: ', val_flat_accuracy)
 
 
-    torch.save(model.state_dict(), '/mnt/localdata/geng/model/lmtc_models/downstream/multiLabelClassification/{0}/clf_{0}'.format(model_name))
+    torch.save(model.state_dict(), '/mnt/localdata/geng/model/downstream/{task}/{model_name}/clf_{model_name}'.format(model_name=model_name,task=task))
 
     

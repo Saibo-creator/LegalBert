@@ -11,5 +11,15 @@
     "max_length_bert": 512,
     "batch_size": 32,
     "epoch": 3
+  },
+  "model":{
+    "legalBert":"nlpaueb/legal-bert-base-uncased",
+    "legalRoberta":"/mnt/localdata/geng/model/legalRoberta/",
+    "bert_uncased":"bert-base-uncased",
+    "bert_cased":"bert-base-cased",
+    "bert_large":"bert-large-cased",
+    "roberta":"roberta-base",
+    "gpt2":"gpt2",
+    "legalBertSmall":"nlpaueb/legal-bert-small-uncased"
   }
 }

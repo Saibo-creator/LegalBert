@@ -197,7 +197,7 @@ if __name__ == '__main__':
     if os.path.exists(test_loader_fn):
         pass
     else:
-        create_train_val_loaders(config['dataset']['test'],test_loader_fn)
+        create_test_loader(config['dataset']['test'],test_loader_fn)
 
 
 
