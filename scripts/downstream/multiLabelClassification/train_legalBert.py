@@ -25,21 +25,20 @@ def create_if_not_exists(folder_fn):
         os.mkdir(folder_fn)
 
 
-def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn,tokenizer):
+def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn,tokenizer,batch_size,max_length):
     # df = pd.read_csv('/mnt/localdata/geng/data/downstream/multiLabelClassification/train.csv',index_col=0)
     print("###################### start create train val dataloaders ########################")
     df = pd.read_csv(src_fn)
 
     cols = df.columns
-    label_cols = list(cols[2:])
-    num_labels = len(label_cols)
+    label_cols = list(cols[1:])
     # print('Label columns: ', label_cols)
-
-    df = df.sample(frac=1).reset_index(drop=True) #shuffle rows
+    # df = df.sample(frac=1).reset_index(drop=True) #shuffle rows 会不会是因为这里？
     df['one_hot_labels'] = list(df[label_cols].values)
     labels = list(df.one_hot_labels.values)
+    # pdb.set_trace()
     comments = list(df["text"].values)
-    encodings = tokenizer(comments,max_length=max_length,truncation=True, padding='max_length',return_token_type_ids=True) 
+    encodings = tokenizer(comments,max_length=max_length,truncation=True,pad_to_max_length=True,return_token_type_ids=True) 
 
     input_ids = encodings['input_ids'] # tokenized and encoded sentences
     token_type_ids = encodings['token_type_ids'] # token type ids
@@ -83,19 +82,18 @@ def create_train_val_loaders(src_fn, val_loader_fn,train_loader_fn,tokenizer):
 
 
 
-def create_test_loader(src_fn, test_loader_fn,tokenizer):
-    df = pd.read_csv(src_fn,index_col=0)
+def create_test_loader(src_fn, test_loader_fn,tokenizer,batch_size,max_length):
+    df = pd.read_csv(src_fn)
 
     cols = df.columns
-    label_cols = list(cols[2:])
-    num_labels = len(label_cols)
+    label_cols = list(cols[1:])
     # print('Label columns: ', label_cols)
 
-    df = df.sample(frac=1).reset_index(drop=True) #shuffle rows
+    # df = df.sample(frac=1).reset_index(drop=True) #shuffle rows
     df['one_hot_labels'] = list(df[label_cols].values)
     labels = list(df.one_hot_labels.values)
     comments = list(df["text"].values)
-    encodings = tokenizer(comments,max_length=max_length,truncation=True, padding='max_length',return_token_type_ids=True) 
+    encodings = tokenizer(comments,max_length=max_length,truncation=True,pad_to_max_length=True,return_token_type_ids=True) 
 
     input_ids = encodings['input_ids'] # tokenized and encoded sentences
     token_type_ids = encodings['token_type_ids'] # token type ids
@@ -129,7 +127,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     # given a list of choice 
-    parser.add_argument("--task",default="multiLabelClassification",choices=["multiLabelClassification","twitter"])
+    parser.add_argument("--task",default="multiLabelClassification",choices=["multiLabelClassification","twitter","singleLabelClassification"])
     parser.add_argument("--model_name", help="legalBert vs roberta",choices=["legalBert","legalRoberta","bert_uncased","bert_cased","bert_large","gpt2","roberta"])
     parser.add_argument("--build_new_dataloaders",action='store_true')
     parser.add_argument("-bs","--batch_size",type=int,default=None)
@@ -144,6 +142,9 @@ if __name__ == '__main__':
     task=args.task
     if task=="twitter":
         with open("config_twitter.json", "r") as read_file:
+            config = json.load(read_file)
+    elif task=="singleLabelClassification":
+        with open("config_singleLabelClassification.json", "r") as read_file:
             config = json.load(read_file)
     elif task=="multiLabelClassification":
         with open("config.json", "r") as read_file:
@@ -208,12 +209,12 @@ if __name__ == '__main__':
         validation_dataloader=torch.load(val_loader_fn)
         train_dataloader=torch.load(train_loader_fn)
     else:
-        validation_dataloader,train_dataloader=create_train_val_loaders(config['dataset']['train'],val_loader_fn, train_loader_fn,tokenizer)
+        validation_dataloader,train_dataloader=create_train_val_loaders(config['dataset']['train'],val_loader_fn, train_loader_fn,tokenizer,batch_size,max_length)
 
     if os.path.exists(test_loader_fn) and (not build_new_dataloaders):
         pass
     else:
-        create_test_loader(config['dataset']['test'],test_loader_fn,tokenizer)
+        create_test_loader(config['dataset']['test'],test_loader_fn,tokenizer,batch_size,max_length)
 
 
 
@@ -285,11 +286,12 @@ if __name__ == '__main__':
             # outputs = model(b_input_ids, token_type_ids=None, attention_mask=b_input_mask, labels=b_labels)
             # loss = outputs[0]
             # logits = outputs[1]
-
+            # pdb.set_trace()
             # Forward pass for multilabel classification
             outputs = parallel_model(b_input_ids, token_type_ids=b_token_types, attention_mask=b_input_mask)
             logits = outputs[0]
             loss_func = BCEWithLogitsLoss() 
+            # pdb.set_trace()
             loss = loss_func(logits.view(-1,NUM_LABELS),b_labels.type_as(logits).view(-1,NUM_LABELS)) #convert labels to float for calculation
             # loss_func = BCELoss() 
             # loss = loss_func(torch.sigmoid(logits.view(-1,NUM_LABELS)),b_labels.type_as(logits).view(-1,NUM_LABELS)) #convert labels to float for calculation
