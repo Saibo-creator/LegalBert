@@ -182,7 +182,8 @@ if __name__ == '__main__':
         batch_size=args.batch_size
 
 
-
+    DATA_DIRECTORY=config['dataset']['data_directory']
+    MODEL_DIRECTORY=config['dataset']['model_directory']
 
 
     # import pretrained bert tokenizer
@@ -193,16 +194,16 @@ if __name__ == '__main__':
 
 
 
-    model_folder_fn='/mnt/localdata/geng/model/downstream/{task}/{model_name}'.format(model_name=model_name,task=task)
-    data_folder_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}'.format(model_name=model_name,task=task)
+    model_folder_fn=MODEL_DIRECTORY+'/{task}/{model_name}'.format(model_name=model_name,task=task)
+    data_folder_fn=DATA_DIRECTORY+'/{task}/{model_name}'.format(model_name=model_name,task=task)
     create_if_not_exists(data_folder_fn)
     create_if_not_exists(model_folder_fn)
 
     # Load Model & Set Params
 
-    val_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/validation_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
-    train_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/train_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
-    test_loader_fn='/mnt/localdata/geng/data/downstream/{task}/{model_name}/test_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
+    val_loader_fn=DATA_DIRECTORY+'/{task}/{model_name}/validation_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
+    train_loader_fn=DATA_DIRECTORY+'/{task}/{model_name}/train_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
+    test_loader_fn=DATA_DIRECTORY+'/{task}/{model_name}/test_data_loader_bs{batch_size}'.format(model_name=model_name,task=task,batch_size=batch_size)
     
     if os.path.exists(val_loader_fn) and (not build_new_dataloaders):
         print("train val dataloaders alreay exist, load them now.")
@@ -354,6 +355,6 @@ if __name__ == '__main__':
         print('Flat Validation Accuracy: ', val_flat_accuracy)
 
 
-    torch.save(model.state_dict(), '/mnt/localdata/geng/model/downstream/{task}/{model_name}/clf_{model_name}'.format(model_name=model_name,task=task))
+    torch.save(model.state_dict(), MODEL_DIRECTORY+'/{task}/{model_name}/clf_{model_name}'.format(model_name=model_name,task=task))
 
     
