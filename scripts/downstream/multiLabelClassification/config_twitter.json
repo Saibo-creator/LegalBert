@@ -1,7 +1,9 @@
 {
     "dataset": {
-      "train": "/mnt/localdata/geng/data/downstream/twitter/test.csv",
-      "test": "/mnt/localdata/geng/data/downstream/twitter/test_test.csv"
+      "train": "/mnt/localdata/geng/data/downstream/singleLabelClassification/train.csv",
+      "test": "/mnt/localdata/geng/data/downstream/singleLabelClassification/test.csv",
+      "data_directory":"/mnt/localdata/geng/data/downstream/",
+      "model_directory":"/mnt/localdata/geng/model/downstream/"
     },
     "task": {
       "dataset": "twitter",
